@@ -1,0 +1,664 @@
+,zip,type,decommissioned,primary_city,acceptable_cities,unacceptable_cities,state,county,timezone,area_codes,world_region,country,latitude,longitude,irs_estimated_population
+16241,37010,STANDARD,0,Adams,,,TN,Montgomery County,America/Chicago,"615,931",,US,36.58,-87.06,5440
+16242,37011,PO BOX,0,Antioch,,,TN,Davidson County,America/Chicago,615,,US,36.04,-86.64,1107
+16243,37012,STANDARD,0,Alexandria,,,TN,DeKalb County,America/Chicago,,,US,36.07,-86.03,1970
+16245,37014,STANDARD,0,Arrington,,Triune,TN,Williamson County,America/Chicago,615,,US,35.88,-86.63,2420
+16246,37015,STANDARD,0,Ashland City,,,TN,Cheatham County,America/Chicago,615,,US,36.27,-87.05,16340
+16247,37016,STANDARD,0,Auburntown,,,TN,Cannon County,America/Chicago,,,US,35.94,-86.09,830
+16248,37018,STANDARD,0,Beechgrove,,,TN,Coffee County,America/Chicago,931,,US,35.64,-86.2,1900
+16249,37019,STANDARD,0,Belfast,,,TN,Marshall County,America/Chicago,931,,US,35.4,-86.71,830
+16250,37020,STANDARD,0,Bell Buckle,,,TN,Bedford County,America/Chicago,"931,615",,US,35.59,-86.35,4810
+16251,37022,STANDARD,0,Bethpage,Rock Bridge,,TN,Sumner County,America/Chicago,615,,US,36.5,-86.3,5210
+16252,37023,STANDARD,0,Big Rock,,,TN,Stewart County,America/Chicago,931,,US,36.59,-87.78,1480
+16253,37024,PO BOX,0,Brentwood,,,TN,Williamson County,America/Chicago,615,,US,35.99,-86.78,888
+16254,37025,STANDARD,0,Bon Aqua,,,TN,Hickman County,America/Chicago,615,,US,35.94,-87.34,5700
+16255,37026,STANDARD,0,Bradyville,,,TN,Cannon County,America/Chicago,615,,US,35.69,-86.1,2090
+16257,37028,STANDARD,0,Bumpus Mills,,,TN,Stewart County,America/Chicago,931,,US,36.62,-87.85,570
+16258,37029,STANDARD,0,Burns,,,TN,Dickson County,America/Chicago,615,,US,36.05,-87.31,5850
+16259,37030,STANDARD,0,Carthage,"Defeated, S Carthage, So Carthage, South Carthage",Mc Clures Bend,TN,Smith County,America/Chicago,615,,US,36.25,-85.94,6090
+16260,37031,STANDARD,0,Castalian Springs,Castalin Spgs,Castalian Spg,TN,Sumner County,America/Chicago,,,US,36.38,-86.31,3920
+16261,37032,STANDARD,0,Cedar Hill,,,TN,Robertson County,America/Chicago,"615,931",,US,36.55,-87.0,4380
+16262,37033,STANDARD,0,Centerville,Pleasantville,"Aetna, Coble, Fairfield, Grinders, Shipps Bend",TN,Hickman County,America/Chicago,931,,US,35.79,-87.44,6150
+16263,37034,STANDARD,0,Chapel Hill,,,TN,Marshall County,America/Chicago,931,,US,35.62,-86.69,7490
+16264,37035,STANDARD,0,Chapmansboro,,,TN,Cheatham County,America/Chicago,"615,931",,US,36.37,-87.11,3450
+16265,37036,STANDARD,0,Charlotte,,,TN,Dickson County,America/Chicago,615,,US,36.18,-87.34,5390
+16266,37037,STANDARD,0,Christiana,,,TN,Rutherford County,America/Chicago,"615,931",,US,35.7,-86.34,8110
+16267,37040,STANDARD,0,Clarksville,,,TN,Montgomery County,America/Chicago,"615,931",,US,36.56,-87.34,48180
+16269,37042,STANDARD,0,Clarksville,,Sango,TN,Montgomery County,America/Chicago,931,,US,36.57,-87.42,72200
+16270,37043,STANDARD,0,Clarksville,,"Fredonia, Hickory Point, Hilldale",TN,Montgomery County,America/Chicago,"931,615",,US,36.49,-87.24,46850
+16272,37046,STANDARD,0,College Grove,,"Allisona, Bethesda",TN,Williamson County,America/Chicago,615,,US,35.77,-86.74,5410
+16273,37047,STANDARD,0,Cornersville,,,TN,Marshall County,America/Chicago,931,,US,35.35,-86.84,2200
+16274,37048,STANDARD,0,Cottontown,Walnut Grove,,TN,Sumner County,America/Chicago,615,,US,36.48,-86.59,6050
+16275,37049,STANDARD,0,Cross Plains,,,TN,Robertson County,America/Chicago,615,,US,36.54,-86.68,3390
+16276,37050,STANDARD,0,Cumberland City,Cumberlnd Cty,,TN,Stewart County,America/Chicago,931,,US,36.38,-87.64,1480
+16277,37051,STANDARD,0,Cumberland Furnace,Cmbrlnd Frnce,,TN,Dickson County,America/Chicago,615,,US,36.3,-87.4,3280
+16278,37052,STANDARD,0,Cunningham,,,TN,Montgomery County,America/Chicago,"615,931",,US,36.37,-87.43,2470
+16279,37055,STANDARD,0,Dickson,,,TN,Dickson County,America/Chicago,615,,US,36.07,-87.37,24530
+16281,37057,STANDARD,0,Dixon Springs,,,TN,Smith County,America/Chicago,615,,US,36.4,-86.04,790
+16282,37058,STANDARD,0,Dover,,Fort Donelson National Milit,TN,Stewart County,America/Chicago,931,,US,36.48,-87.84,6030
+16283,37059,STANDARD,0,Dowelltown,,,TN,DeKalb County,America/Chicago,615,,US,36.01,-85.94,1310
+16284,37060,STANDARD,0,Eagleville,,,TN,Rutherford County,America/Chicago,615,,US,35.74,-86.65,2740
+16285,37061,STANDARD,0,Erin,,,TN,Houston County,America/Chicago,931,,US,36.31,-87.7,4010
+16286,37062,STANDARD,0,Fairview,,,TN,Williamson County,America/Chicago,615,,US,35.97,-87.12,11570
+16287,37063,PO BOX,0,Fosterville,,,TN,Rutherford County,America/Chicago,615,,US,35.65,-86.4,0
+16288,37064,STANDARD,0,Franklin,,"Kingfield, Peytonsville, Rudderville",TN,Williamson County,America/Chicago,615,,US,35.88,-86.95,57560
+16289,37065,PO BOX,0,Franklin,,,TN,Williamson County,America/Chicago,615,,US,35.92,-86.84,625
+16290,37066,STANDARD,0,Gallatin,,,TN,Sumner County,America/Chicago,615,,US,36.37,-86.45,50840
+16293,37069,STANDARD,0,Franklin,,,TN,Williamson County,America/Chicago,615,,US,35.99,-86.9,20260
+16294,37070,PO BOX,0,Goodlettsville,Goodlettsvlle,"Goodlettsvl, Goodlettsvle",TN,Davidson County,America/Chicago,615,,US,36.33,-86.7,794
+16295,37071,PO BOX,0,Gladeville,,,TN,Wilson County,America/Chicago,615,,US,36.08,-86.4,113
+16297,37073,STANDARD,0,Greenbrier,,,TN,Robertson County,America/Chicago,615,,US,36.42,-86.8,13500
+16298,37074,STANDARD,0,Hartsville,,,TN,Trousdale County,America/Chicago,615,,US,36.39,-86.15,6540
+16299,37075,STANDARD,0,Hendersonville,Hendersonvlle,,TN,Sumner County,America/Chicago,615,,US,36.29,-86.6,64300
+16300,37076,STANDARD,0,Hermitage,,,TN,Davidson County,America/Chicago,615,,US,36.13,-86.58,34380
+16302,37078,STANDARD,0,Hurricane Mills,Hurricne Mlls,,TN,Humphreys County,America/Chicago,931,,US,35.94,-87.76,520
+16303,37079,STANDARD,0,Indian Mound,,,TN,Stewart County,America/Chicago,,,US,36.47,-87.66,2290
+16304,37080,STANDARD,0,Joelton,,,TN,Davidson County,America/Chicago,615,,US,36.33,-86.91,6620
+16305,37082,STANDARD,0,Kingston Springs,Kingston Spgs,,TN,Cheatham County,America/Chicago,615,,US,36.09,-87.1,5790
+16306,37083,STANDARD,0,Lafayette,,La Fayette,TN,Macon County,America/Chicago,615,,US,36.52,-86.03,12810
+16307,37085,STANDARD,0,Lascassas,,,TN,Rutherford County,America/Chicago,,,US,35.94,-86.29,4930
+16308,37086,STANDARD,0,La Vergne,,,TN,Rutherford County,America/Chicago,615,,US,35.99,-86.57,33590
+16309,37087,STANDARD,0,Lebanon,,,TN,Wilson County,America/Chicago,615,,US,36.2,-86.32,44550
+16312,37090,STANDARD,0,Lebanon,,,TN,Wilson County,America/Chicago,615,,US,36.11,-86.3,15990
+16313,37091,STANDARD,0,Lewisburg,,,TN,Marshall County,America/Chicago,931,,US,35.44,-86.78,19120
+16314,37095,STANDARD,0,Liberty,Gassaway,,TN,DeKalb County,America/Chicago,,,US,36.0,-85.98,1530
+16315,37096,STANDARD,0,Linden,Flatwoods,,TN,Perry County,America/Chicago,931,,US,35.61,-87.84,4540
+16316,37097,STANDARD,0,Lobelville,,,TN,Perry County,America/Chicago,931,,US,35.75,-87.79,1700
+16317,37098,STANDARD,0,Lyles,Wrigley,,TN,Hickman County,America/Chicago,"615,931",,US,35.87,-87.32,4690
+16318,37101,STANDARD,0,Mc Ewen,,Mcewen,TN,Humphreys County,America/Chicago,931,,US,36.1,-87.63,5570
+16319,37110,STANDARD,0,Mcminnville,"Centertown, Mc Minnville",,TN,Warren County,America/Chicago,931,,US,35.68,-85.77,26460
+16321,37115,STANDARD,0,Madison,,,TN,Davidson County,America/Chicago,615,,US,36.25,-86.69,31450
+16323,37118,STANDARD,0,Milton,,,TN,Rutherford County,America/Chicago,,,US,35.92,-86.17,1290
+16324,37119,PO BOX,0,Mitchellville,,,TN,Sumner County,America/Chicago,615,,US,36.63,-86.53,25
+16325,37121,PO BOX,0,Mount Juliet,,Mt Juliet,TN,Wilson County,America/Chicago,615,,US,36.2,-86.52,652
+16327,37127,STANDARD,0,Murfreesboro,,"Mboro, Murfreesbr",TN,Rutherford County,America/Chicago,615,,US,35.78,-86.33,17730
+16328,37128,STANDARD,0,Murfreesboro,,"Mboro, Murfreesbr",TN,Rutherford County,America/Chicago,615,,US,35.78,-86.49,60070
+16329,37129,STANDARD,0,Murfreesboro,,"Mboro, Murfreesbr",TN,Rutherford County,America/Chicago,615,,US,35.93,-86.44,53000
+16330,37130,STANDARD,0,Murfreesboro,,"Mboro, Murfreesbr",TN,Rutherford County,America/Chicago,615,,US,35.85,-86.39,45890
+16332,37132,UNIQUE,0,Murfreesboro,,"Mboro, Middle Tenn State Univ, Murfreesbr",TN,Rutherford County,America/Chicago,615,,US,35.85,-86.36,195
+16334,37134,STANDARD,0,New Johnsonville,"Denver, New Johsonvle",,TN,Humphreys County,America/Chicago,931,,US,36.01,-87.95,2780
+16335,37135,STANDARD,0,Nolensville,,,TN,Williamson County,America/Chicago,615,,US,35.94,-86.64,19660
+16336,37136,PO BOX,0,Norene,,,TN,Wilson County,America/Chicago,615,,US,36.11,-86.29,0
+16337,37137,STANDARD,0,Nunnelly,,,TN,Hickman County,America/Chicago,931,,US,35.89,-87.52,2280
+16338,37138,STANDARD,0,Old Hickory,Lakewood,,TN,Davidson County,America/Chicago,615,,US,36.22,-86.61,21190
+16339,37140,STANDARD,0,Only,,,TN,Hickman County,America/Chicago,931,,US,35.87,-87.65,120
+16340,37141,STANDARD,0,Orlinda,,,TN,Robertson County,America/Chicago,615,,US,36.6,-86.67,1100
+16341,37142,STANDARD,0,Palmyra,,,TN,Montgomery County,America/Chicago,931,,US,36.41,-87.5,1770
+16342,37143,STANDARD,0,Pegram,,,TN,Cheatham County,America/Chicago,615,,US,36.1,-87.05,3740
+16343,37144,STANDARD,0,Petersburg,,,TN,Lincoln County,America/Chicago,931,,US,35.31,-86.63,2770
+16344,37145,STANDARD,0,Pleasant Shade,Pleasant Shde,,TN,Smith County,America/Chicago,615,,US,36.38,-85.91,2100
+16345,37146,STANDARD,0,Pleasant View,,,TN,Cheatham County,America/Chicago,615,,US,36.37,-87.04,7430
+16346,37148,STANDARD,0,Portland,,,TN,Sumner County,America/Chicago,615,,US,36.58,-86.51,22180
+16347,37149,STANDARD,0,Readyville,,,TN,Cannon County,America/Chicago,,,US,35.8,-86.19,2350
+16348,37150,STANDARD,0,Red Boiling Springs,Red Blng Spgs,,TN,Macon County,America/Chicago,"931,615",,US,36.53,-85.85,3740
+16349,37151,STANDARD,0,Riddleton,,,TN,Smith County,America/Chicago,615,,US,36.34,-86.03,500
+16350,37152,PO BOX,0,Ridgetop,,,TN,Robertson County,America/Chicago,615,,US,36.39,-86.77,433
+16351,37153,STANDARD,0,Rockvale,,,TN,Rutherford County,America/Chicago,,,US,35.75,-86.55,5540
+16352,37160,STANDARD,0,Shelbyville,Royal,,TN,Bedford County,America/Chicago,931,,US,35.49,-86.44,30150
+16355,37165,PO BOX,0,Slayden,,,TN,Dickson County,America/Chicago,615,,US,36.29,-87.47,131
+16356,37166,STANDARD,0,Smithville,,,TN,DeKalb County,America/Chicago,"931,615",,US,35.95,-85.82,11810
+16357,37167,STANDARD,0,Smyrna,,,TN,Rutherford County,America/Chicago,615,,US,35.98,-86.51,54750
+16358,37171,STANDARD,0,Southside,,,TN,Montgomery County,America/Chicago,"615,931",,US,36.36,-87.3,1030
+16359,37172,STANDARD,0,Springfield,Coopertown,,TN,Robertson County,America/Chicago,615,,US,36.49,-86.87,28160
+16360,37174,STANDARD,0,Spring Hill,,,TN,Williamson County,America/Chicago,"615,931",,US,35.74,-86.92,43550
+16361,37175,STANDARD,0,Stewart,,,TN,Houston County,America/Chicago,931,,US,36.32,-87.89,800
+16362,37178,STANDARD,0,Tennessee Ridge,Tennessee Rdg,"Tenn Ridge, Tn Ridge",TN,Houston County,America/Chicago,931,,US,36.31,-87.76,1910
+16363,37179,STANDARD,0,Thompsons Station,Thompsons Stn,,TN,Williamson County,America/Chicago,615,,US,35.82,-87.01,15970
+16364,37180,STANDARD,0,Unionville,,,TN,Bedford County,America/Chicago,"615,931",,US,35.62,-86.59,3050
+16365,37181,STANDARD,0,Vanleer,,,TN,Dickson County,America/Chicago,"931,615",,US,36.23,-87.44,1240
+16366,37183,STANDARD,0,Wartrace,,,TN,Bedford County,America/Chicago,931,,US,35.52,-86.33,3000
+16367,37184,STANDARD,0,Watertown,,,TN,Wilson County,America/Chicago,615,,US,36.09,-86.13,5530
+16368,37185,STANDARD,0,Waverly,,,TN,Humphreys County,America/Chicago,931,,US,36.09,-87.78,7200
+16369,37186,STANDARD,0,Westmoreland,,,TN,Sumner County,America/Chicago,615,,US,36.56,-86.24,8430
+16370,37187,STANDARD,0,White Bluff,,,TN,Dickson County,America/Chicago,615,,US,36.1,-87.21,6570
+16371,37188,STANDARD,0,White House,,,TN,Robertson County,America/Chicago,615,,US,36.46,-86.66,15470
+16372,37189,STANDARD,0,Whites Creek,,,TN,Davidson County,America/Chicago,615,,US,36.28,-86.83,3370
+16373,37190,STANDARD,0,Woodbury,,,TN,Cannon County,America/Chicago,931,,US,35.82,-86.07,7450
+16374,37191,STANDARD,0,Woodlawn,,,TN,Montgomery County,America/Chicago,931,,US,36.5,-87.54,3770
+16375,37201,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.17,-86.78,1170
+16377,37203,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.15,-86.79,14730
+16378,37204,STANDARD,0,Nashville,"Berry Hill, Melrose",,TN,Davidson County,America/Chicago,615,,US,36.11,-86.77,12350
+16379,37205,STANDARD,0,Nashville,Belle Meade,,TN,Davidson County,America/Chicago,615,,US,36.11,-86.87,21970
+16380,37206,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.18,-86.73,23150
+16381,37207,STANDARD,0,Nashville,,Northeast,TN,Davidson County,America/Chicago,615,,US,36.23,-86.78,32840
+16382,37208,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.18,-86.81,14120
+16383,37209,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.19,-86.95,30750
+16384,37210,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.15,-86.73,12280
+16385,37211,STANDARD,0,Nashville,,Woodbine,TN,Davidson County,America/Chicago,615,,US,36.07,-86.72,64600
+16386,37212,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.13,-86.8,10640
+16387,37213,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.17,-86.77,116
+16388,37214,STANDARD,0,Nashville,,Donelson,TN,Davidson County,America/Chicago,615,,US,36.16,-86.67,26850
+16389,37215,STANDARD,0,Nashville,Forest Hills,,TN,Davidson County,America/Chicago,615,,US,36.08,-86.83,21390
+16390,37216,STANDARD,0,Nashville,,Jere Baxter,TN,Davidson County,America/Chicago,615,,US,36.22,-86.73,15700
+16391,37217,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.11,-86.66,26900
+16392,37218,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.16,-86.89,11920
+16394,37220,STANDARD,0,Nashville,Oak Hill,Forest Hills,TN,Davidson County,America/Chicago,615,,US,36.07,-86.79,6450
+16395,37221,STANDARD,0,Nashville,Bellevue,,TN,Davidson County,America/Chicago,615,,US,36.05,-86.97,37620
+16399,37228,STANDARD,0,Nashville,,,TN,Davidson County,America/Chicago,615,,US,36.2,-86.8,1610
+16406,37237,UNIQUE,1,Nashville,,Amsouth Bank,TN,Davidson County,America/Chicago,615,,US,36.16,-86.78,10
+16408,37240,UNIQUE,0,Nashville,,Vanderbilt University,TN,Davidson County,America/Chicago,615,,US,36.14,-86.81,0
+16414,37246,UNIQUE,0,Nashville,,Nashville Elec Serv,TN,Davidson County,America/Chicago,615,,US,36.16,-86.79,0
+16419,37301,STANDARD,0,Altamont,,,TN,Grundy County,America/Chicago,931,,US,35.42,-85.72,1470
+16420,37302,STANDARD,0,Apison,,,TN,Hamilton County,America/New_York,423,,US,35.01,-85.0,4340
+16421,37303,STANDARD,0,Athens,,,TN,McMinn County,America/New_York,423,,US,35.45,-84.6,20710
+16422,37304,STANDARD,0,Bakewell,Sale Creek,,TN,Hamilton County,America/New_York,423,,US,35.39,-85.11,0
+16423,37305,STANDARD,0,Beersheba Springs,Beershba Spgs,,TN,Grundy County,America/Chicago,931,,US,35.45,-85.67,600
+16424,37306,STANDARD,0,Belvidere,,,TN,Franklin County,America/Chicago,931,,US,35.12,-86.18,2390
+16425,37307,STANDARD,0,Benton,,,TN,Polk County,America/New_York,423,,US,35.17,-84.65,4090
+16426,37308,STANDARD,0,Birchwood,,,TN,Hamilton County,America/New_York,,,US,35.36,-84.99,2420
+16427,37309,STANDARD,0,Calhoun,,,TN,McMinn County,America/New_York,423,,US,35.29,-84.74,1910
+16428,37310,STANDARD,0,Charleston,,,TN,Bradley County,America/New_York,423,,US,35.28,-84.76,3880
+16429,37311,STANDARD,0,Cleveland,,Cleveld,TN,Bradley County,America/New_York,423,,US,35.17,-84.86,20650
+16430,37312,STANDARD,0,Cleveland,,Cleveld,TN,Bradley County,America/New_York,423,,US,35.23,-84.88,31090
+16431,37313,STANDARD,0,Coalmont,,,TN,Grundy County,America/Chicago,931,,US,35.33,-85.71,1080
+16432,37314,PO BOX,0,Coker Creek,,,TN,Monroe County,America/New_York,423,,US,35.26,-84.3,70
+16433,37315,PO BOX,0,Collegedale,,,TN,Hamilton County,America/New_York,423,,US,35.05,-85.05,2155
+16434,37316,PO BOX,0,Conasauga,,,TN,Polk County,America/New_York,423,,US,35.0,-84.73,55
+16435,37317,STANDARD,0,Copperhill,Postelle,,TN,Polk County,America/New_York,423,,US,34.99,-84.37,1970
+16436,37318,STANDARD,0,Cowan,,,TN,Franklin County,America/Chicago,931,,US,35.16,-86.01,1570
+16438,37321,STANDARD,0,Dayton,,,TN,Rhea County,America/New_York,423,,US,35.49,-85.01,16410
+16439,37322,STANDARD,0,Decatur,,,TN,Meigs County,America/New_York,423,,US,35.52,-84.79,7180
+16440,37323,STANDARD,0,Cleveland,,"Cleveld, Clevelnd",TN,Bradley County,America/New_York,423,,US,35.1,-84.82,27590
+16441,37324,STANDARD,0,Decherd,,,TN,Franklin County,America/Chicago,,,US,35.2,-86.08,4320
+16442,37325,STANDARD,0,Delano,,,TN,Polk County,America/New_York,,,US,35.25,-84.62,1490
+16443,37326,PO BOX,0,Ducktown,,,TN,Polk County,America/New_York,423,,US,35.03,-84.38,818
+16444,37327,STANDARD,0,Dunlap,,,TN,Sequatchie County,America/Chicago,423,,US,35.37,-85.38,10070
+16445,37328,STANDARD,0,Elora,,,TN,Lincoln County,America/Chicago,,,US,35.01,-86.35,1190
+16446,37329,STANDARD,0,Englewood,,,TN,McMinn County,America/New_York,423,,US,35.42,-84.48,4630
+16447,37330,STANDARD,0,Estill Springs,Estill Spgs,,TN,Franklin County,America/Chicago,931,,US,35.26,-86.13,6110
+16448,37331,STANDARD,0,Etowah,,,TN,McMinn County,America/New_York,423,,US,35.33,-84.52,6220
+16449,37332,STANDARD,0,Evensville,,,TN,Rhea County,America/New_York,423,,US,35.56,-84.95,2300
+16450,37333,STANDARD,0,Farner,,,TN,Polk County,America/New_York,423,,US,35.14,-84.32,390
+16451,37334,STANDARD,0,Fayetteville,,,TN,Lincoln County,America/Chicago,931,,US,35.14,-86.56,20100
+16452,37335,STANDARD,0,Flintville,,,TN,Lincoln County,America/Chicago,931,,US,35.04,-86.45,2310
+16453,37336,STANDARD,0,Georgetown,,,TN,Bradley County,America/New_York,423,,US,35.3,-84.91,3900
+16454,37337,STANDARD,0,Grandview,,Grand View,TN,Rhea County,America/New_York,423,,US,35.74,-84.83,1120
+16455,37338,STANDARD,0,Graysville,,,TN,Rhea County,America/Chicago,423,,US,35.43,-85.22,2720
+16456,37339,STANDARD,0,Gruetli Laager,Gruetli Laagr,"Gruetli, Laager",TN,Grundy County,America/Chicago,931,,US,35.38,-85.63,1480
+16457,37340,STANDARD,0,Guild,,,TN,Marion County,America/Chicago,423,,US,35.03,-85.52,560
+16458,37341,STANDARD,0,Harrison,,,TN,Hamilton County,America/New_York,423,,US,35.12,-85.14,12400
+16459,37342,STANDARD,0,Hillsboro,,,TN,Coffee County,America/Chicago,931,,US,35.36,-85.95,3280
+16460,37343,STANDARD,0,Hixson,,,TN,Hamilton County,America/New_York,423,,US,35.16,-85.2,39560
+16461,37345,STANDARD,0,Huntland,,,TN,Franklin County,America/Chicago,931,,US,35.05,-86.26,1930
+16462,37347,STANDARD,0,Jasper,Kimball,,TN,Marion County,America/Chicago,423,,US,35.05,-85.62,7370
+16463,37348,STANDARD,0,Kelso,,,TN,Lincoln County,America/Chicago,931,,US,35.12,-86.46,1000
+16464,37349,PO BOX,0,Manchester,,,TN,Coffee County,America/Chicago,931,,US,35.46,-86.08,971
+16465,37350,STANDARD,0,Lookout Mountain,Lookout Mtn,,TN,Hamilton County,America/New_York,423,,US,34.99,-85.35,2100
+16466,37351,STANDARD,0,Lupton City,,,TN,Hamilton County,America/New_York,423,,US,35.1,-85.26,260
+16467,37352,STANDARD,0,Lynchburg,,,TN,Moore County,America/Chicago,931,,US,35.28,-86.35,2880
+16468,37353,STANDARD,0,Mc Donald,,,TN,Bradley County,America/New_York,423,,US,35.08,-84.98,4470
+16469,37354,STANDARD,0,Madisonville,,,TN,Monroe County,America/New_York,423,,US,35.52,-84.35,14090
+16471,37356,STANDARD,0,Monteagle,,,TN,Grundy County,America/Chicago,931,,US,35.24,-85.84,2170
+16472,37357,STANDARD,0,Morrison,,,TN,Warren County,America/Chicago,931,,US,35.6,-85.91,4970
+16473,37359,STANDARD,0,Mulberry,,,TN,Lincoln County,America/Chicago,931,,US,35.2,-86.41,600
+16474,37360,STANDARD,0,Normandy,,,TN,Coffee County,America/Chicago,931,,US,35.45,-86.25,1490
+16475,37361,STANDARD,0,Ocoee,,,TN,Polk County,America/New_York,423,,US,35.1,-84.7,1320
+16476,37362,STANDARD,0,Old Fort,,,TN,Polk County,America/New_York,,,US,35.04,-84.64,2930
+16477,37363,STANDARD,0,Ooltewah,College Dale,,TN,Hamilton County,America/New_York,423,,US,35.06,-85.09,36700
+16479,37365,STANDARD,0,Palmer,,,TN,Grundy County,America/Chicago,931,,US,35.35,-85.56,1110
+16480,37366,STANDARD,0,Pelham,,,TN,Grundy County,America/Chicago,931,,US,35.32,-85.78,850
+16481,37367,STANDARD,0,Pikeville,,,TN,Bledsoe County,America/Chicago,423,,US,35.6,-85.19,7370
+16482,37369,STANDARD,0,Reliance,,,TN,Polk County,America/New_York,423,,US,35.18,-84.56,700
+16483,37370,STANDARD,0,Riceville,,,TN,McMinn County,America/New_York,423,,US,35.38,-84.69,4090
+16485,37373,STANDARD,0,Sale Creek,Bakewell,,TN,Hamilton County,America/New_York,423,,US,35.38,-85.1,2860
+16486,37374,STANDARD,0,Sequatchie,,,TN,Marion County,America/Chicago,423,,US,35.19,-85.66,1380
+16487,37375,STANDARD,0,Sewanee,Saint Andrews,,TN,Franklin County,America/Chicago,931,,US,35.2,-85.92,2120
+16488,37376,STANDARD,0,Sherwood,,,TN,Franklin County,America/Chicago,931,,US,35.06,-85.95,330
+16489,37377,STANDARD,0,Signal Mountain,"Signal Mtn, Walden",,TN,Hamilton County,America/New_York,,,US,35.13,-85.34,16240
+16490,37378,PO BOX,0,Smartt,,,TN,Warren County,America/Chicago,931,,US,35.63,-85.84,208
+16491,37379,STANDARD,0,Soddy Daisy,Lakesite,,TN,Hamilton County,America/New_York,423,,US,35.26,-85.17,24680
+16492,37380,STANDARD,0,South Pittsburg,"New Hope, Orme, S Pittsburg",,TN,Marion County,America/Chicago,423,,US,35.01,-85.71,5330
+16493,37381,STANDARD,0,Spring City,Watts Bar Dam,,TN,Rhea County,America/New_York,423,,US,35.68,-84.86,7320
+16494,37382,PO BOX,0,Summitville,,,TN,Coffee County,America/Chicago,931,,US,35.54,-85.97,327
+16497,37385,STANDARD,0,Tellico Plains,Tellico Plns,,TN,Monroe County,America/New_York,423,,US,35.36,-84.29,6370
+16498,37387,STANDARD,0,Tracy City,,,TN,Grundy County,America/Chicago,931,,US,35.25,-85.75,3300
+16499,37388,STANDARD,0,Tullahoma,Dickel,,TN,Coffee County,America/Chicago,931,,US,35.37,-86.2,22610
+16500,37389,STANDARD,0,Arnold AFB,Tullahoma,Arnold Air Force Base,TN,Coffee County,America/Chicago,931,,US,35.37,-86.14,0
+16501,37391,STANDARD,0,Turtletown,,,TN,Polk County,America/New_York,423,,US,35.12,-84.35,1110
+16502,37394,PO BOX,0,Viola,,,TN,Warren County,America/Chicago,931,,US,35.54,-85.86,229
+16503,37396,STANDARD,0,Whiteside,,,TN,Marion County,America/Chicago,423,,US,35.01,-85.5,310
+16504,37397,STANDARD,0,Whitwell,"Powells Crossroads, Powells Xroad",,TN,Marion County,America/Chicago,423,,US,35.2,-85.51,7820
+16505,37398,STANDARD,0,Winchester,,,TN,Franklin County,America/Chicago,931,,US,35.18,-86.1,13190
+16506,37401,PO BOX,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.06,-85.25,510
+16507,37402,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.04,-85.32,2370
+16508,37403,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.05,-85.29,1790
+16509,37404,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.03,-85.27,10170
+16510,37405,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/Chicago,423,,US,35.12,-85.41,14170
+16512,37407,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.0,-85.29,6750
+16513,37408,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.03,-85.31,2190
+16514,37409,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.01,-85.34,2640
+16515,37410,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.0,-85.31,3030
+16516,37411,STANDARD,0,Chattanooga,Ridgeside,,TN,Hamilton County,America/New_York,423,,US,35.03,-85.23,14930
+16517,37412,STANDARD,0,Chattanooga,East Ridge,,TN,Hamilton County,America/New_York,423,,US,35.0,-85.23,18720
+16519,37415,STANDARD,0,Chattanooga,Red Bank,,TN,Hamilton County,America/New_York,423,,US,35.12,-85.28,19450
+16520,37416,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.1,-85.18,12950
+16521,37419,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.04,-85.4,5660
+16522,37421,STANDARD,0,Chattanooga,,,TN,Hamilton County,America/New_York,423,,US,35.03,-85.15,44980
+16526,37501,UNIQUE,0,Memphis,,Internal Revenue,TN,Shelby County,America/Chicago,901,,US,35.1,-90.0,0
+16527,37544,UNIQUE,0,Memphis,,Internal Revenue,TN,Shelby County,America/Chicago,901,,US,35.15,-90.05,0
+16528,37601,STANDARD,0,Johnson City,,JC,TN,Washington County,America/New_York,423,,US,36.33,-82.36,28520
+16530,37604,STANDARD,0,Johnson City,,JC,TN,Washington County,America/New_York,423,,US,36.3,-82.38,26880
+16532,37614,PO BOX,0,Johnson City,,"East Tn State Univ, Etsu, JC",TN,Washington County,America/New_York,423,,US,36.3,-82.37,287
+16533,37615,STANDARD,0,Johnson City,Gray,JC,TN,Washington County,America/New_York,423,,US,36.4,-82.46,19530
+16534,37616,STANDARD,0,Afton,,,TN,Greene County,America/New_York,423,,US,36.23,-82.75,4170
+16535,37617,STANDARD,0,Blountville,,,TN,Sullivan County,America/New_York,423,,US,36.53,-82.32,12050
+16536,37618,STANDARD,0,Bluff City,,,TN,Sullivan County,America/New_York,423,,US,36.46,-82.27,10860
+16537,37620,STANDARD,0,Bristol,,,TN,Sullivan County,America/New_York,423,,US,36.56,-82.19,31320
+16540,37640,STANDARD,0,Butler,,,TN,Johnson County,America/New_York,423,,US,36.31,-82.0,2750
+16541,37641,STANDARD,0,Chuckey,,Chucky,TN,Greene County,America/New_York,,,US,36.24,-82.71,7200
+16542,37642,STANDARD,0,Church Hill,,,TN,Hawkins County,America/New_York,423,,US,36.52,-82.71,12280
+16543,37643,STANDARD,0,Elizabethton,,,TN,Carter County,America/New_York,423,,US,36.33,-82.23,25550
+16545,37645,STANDARD,0,Mount Carmel,"Church Hill, Mt Carmel",,TN,Hawkins County,America/New_York,423,,US,36.56,-82.65,4820
+16546,37650,STANDARD,0,Erwin,,,TN,Unicoi County,America/New_York,423,,US,36.14,-82.41,9490
+16547,37656,STANDARD,0,Fall Branch,,,TN,Washington County,America/New_York,423,,US,36.41,-82.62,3110
+16548,37657,STANDARD,0,Flag Pond,,,TN,Unicoi County,America/New_York,423,,US,36.01,-82.56,670
+16549,37658,STANDARD,0,Hampton,,,TN,Carter County,America/New_York,423,,US,36.28,-82.17,3180
+16550,37659,STANDARD,0,Jonesborough,,Jonesboro,TN,Washington County,America/New_York,423,,US,36.29,-82.47,25140
+16551,37660,STANDARD,0,Kingsport,,,TN,Sullivan County,America/New_York,423,,US,36.52,-82.55,30940
+16553,37663,STANDARD,0,Kingsport,"Colonial Heights, Colonial Hgts",,TN,Sullivan County,America/New_York,423,,US,36.46,-82.49,13470
+16554,37664,STANDARD,0,Kingsport,,,TN,Sullivan County,America/New_York,423,,US,36.52,-82.5,24600
+16555,37665,STANDARD,0,Kingsport,,,TN,Sullivan County,America/New_York,423,,US,36.58,-82.57,3990
+16557,37680,STANDARD,0,Laurel Bloomery,Laurel Blmry,,TN,Johnson County,America/New_York,423,,US,36.58,-81.73,470
+16558,37681,STANDARD,0,Limestone,,,TN,Washington County,America/New_York,423,,US,36.22,-82.63,5220
+16559,37682,PO BOX,0,Milligan College,"Milligan, Milligan Coll",,TN,Carter County,America/New_York,423,,US,36.3,-82.29,415
+16560,37683,STANDARD,0,Mountain City,,,TN,Johnson County,America/New_York,423,,US,36.47,-81.8,8400
+16561,37684,PO BOX,0,Mountain Home,Mtn Home,,TN,Washington County,America/New_York,423,,US,36.3,-82.36,426
+16562,37686,STANDARD,0,Piney Flats,,,TN,Sullivan County,America/New_York,423,,US,36.44,-82.34,7300
+16563,37687,STANDARD,0,Roan Mountain,,,TN,Carter County,America/New_York,423,,US,36.18,-82.07,3510
+16564,37688,STANDARD,0,Shady Valley,,,TN,Johnson County,America/New_York,423,,US,36.51,-81.92,700
+16565,37690,STANDARD,0,Telford,,,TN,Washington County,America/New_York,423,,US,36.24,-82.54,3710
+16566,37691,STANDARD,0,Trade,,,TN,Johnson County,America/New_York,423,,US,36.34,-81.74,630
+16567,37692,STANDARD,0,Unicoi,,,TN,Unicoi County,America/New_York,423,,US,36.19,-82.35,3900
+16568,37694,STANDARD,0,Watauga,,,TN,Carter County,America/New_York,,,US,36.36,-82.29,1410
+16570,37701,STANDARD,0,Alcoa,,,TN,Blount County,America/New_York,865,,US,35.79,-83.97,7480
+16571,37705,STANDARD,0,Andersonville,,,TN,Anderson County,America/New_York,865,,US,36.2,-84.04,4350
+16572,37707,PO BOX,0,Arthur,,,TN,Claiborne County,America/New_York,423,,US,36.54,-83.67,327
+16573,37708,STANDARD,0,Bean Station,,Tate Springs,TN,Grainger County,America/New_York,865,,US,36.34,-83.28,5530
+16574,37709,STANDARD,0,Blaine,,,TN,Grainger County,America/New_York,865,,US,36.14,-83.69,3370
+16575,37710,STANDARD,0,Briceville,Devonia,,TN,Anderson County,America/New_York,865,,US,36.16,-84.3,780
+16576,37711,STANDARD,0,Bulls Gap,,,TN,Hawkins County,America/New_York,423,,US,36.26,-83.07,3980
+16577,37713,STANDARD,0,Bybee,,,TN,Cocke County,America/New_York,865,,US,36.04,-83.18,1100
+16578,37714,STANDARD,0,Caryville,,,TN,Campbell County,America/New_York,423,,US,36.26,-84.3,3470
+16579,37715,STANDARD,0,Clairfield,,,TN,Claiborne County,America/New_York,423,,US,36.54,-83.95,580
+16580,37716,STANDARD,0,Clinton,,,TN,Anderson County,America/New_York,865,,US,36.09,-84.13,21600
+16582,37719,PO BOX,0,Coalfield,,,TN,Morgan County,America/New_York,423,,US,36.02,-84.43,532
+16583,37721,STANDARD,0,Corryton,,,TN,Knox County,America/New_York,,,US,36.12,-83.8,12190
+16584,37722,STANDARD,0,Cosby,,,TN,Cocke County,America/New_York,,,US,35.81,-83.25,4880
+16585,37723,STANDARD,0,Crab Orchard,,,TN,Cumberland County,America/Chicago,931,,US,35.9,-84.88,800
+16586,37724,STANDARD,0,Cumberland Gap,"Cumb Gap, Cumberland Gp",,TN,Claiborne County,America/New_York,423,,US,36.55,-83.71,1690
+16587,37725,STANDARD,0,Dandridge,,,TN,Jefferson County,America/New_York,865,,US,36.02,-83.41,15450
+16588,37726,STANDARD,0,Deer Lodge,,,TN,Morgan County,America/New_York,423,,US,36.21,-84.83,1480
+16589,37727,STANDARD,0,Del Rio,,,TN,Cocke County,America/New_York,423,,US,35.91,-83.02,1680
+16590,37729,STANDARD,0,Duff,La Follette,,TN,Campbell County,America/New_York,423,,US,36.52,-84.03,950
+16591,37730,PO BOX,0,Eagan,,,TN,Claiborne County,America/New_York,423,,US,36.55,-83.98,131
+16592,37731,STANDARD,0,Eidson,,,TN,Hawkins County,America/New_York,423,,US,36.5,-83.08,510
+16593,37732,PO BOX,0,Elgin,,,TN,Scott County,America/New_York,423,,US,36.33,-84.6,277
+16594,37733,PO BOX,0,Rugby,Elgin,,TN,Morgan County,America/New_York,423,,US,36.35,-84.7,40
+16595,37737,STANDARD,0,Friendsville,,,TN,Blount County,America/New_York,865,,US,35.75,-84.13,5560
+16596,37738,STANDARD,0,Gatlinburg,,,TN,Sevier County,America/New_York,865,,US,35.72,-83.49,5090
+16597,37742,STANDARD,0,Greenback,,,TN,Loudon County,America/New_York,865,,US,35.65,-84.17,5550
+16598,37743,STANDARD,0,Greeneville,Tusculum Coll,Baileyton,TN,Greene County,America/New_York,423,,US,36.07,-82.86,19990
+16599,37744,PO BOX,0,Greeneville,,,TN,Greene County,America/New_York,423,,US,36.16,-82.81,957
+16601,37748,STANDARD,0,Harriman,,"Emory Gap, Midtown",TN,Roane County,America/New_York,865,,US,35.93,-84.56,14050
+16602,37752,STANDARD,0,Harrogate,,,TN,Claiborne County,America/New_York,423,,US,36.56,-83.54,4710
+16603,37753,STANDARD,0,Hartford,,,TN,Cocke County,America/New_York,"423,865",,US,35.81,-83.14,640
+16604,37754,STANDARD,0,Heiskell,,,TN,Anderson County,America/New_York,865,,US,36.12,-84.04,4030
+16605,37755,STANDARD,0,Helenwood,,New River,TN,Scott County,America/New_York,423,,US,36.43,-84.56,2590
+16606,37756,STANDARD,0,Huntsville,Winona,Norma,TN,Scott County,America/New_York,423,,US,36.41,-84.48,2260
+16607,37757,STANDARD,0,Jacksboro,,,TN,Campbell County,America/New_York,423,,US,36.33,-84.19,7870
+16608,37760,STANDARD,0,Jefferson City,Jefferson Cty,Jeff City,TN,Jefferson County,America/New_York,865,,US,36.11,-83.48,10210
+16609,37762,STANDARD,0,Jellico,,,TN,Campbell County,America/New_York,423,,US,36.57,-84.12,2160
+16610,37763,STANDARD,0,Kingston,,,TN,Roane County,America/New_York,865,,US,35.87,-84.51,13660
+16611,37764,STANDARD,0,Kodak,,,TN,Sevier County,America/New_York,865,,US,35.97,-83.62,9120
+16612,37765,STANDARD,0,Kyles Ford,,,TN,Hancock County,America/New_York,423,,US,36.57,-83.06,340
+16613,37766,STANDARD,0,La Follette,Morley,Lafollette,TN,Campbell County,America/New_York,423,,US,36.37,-84.12,12920
+16614,37769,STANDARD,0,Rocky Top,Lake City,,TN,Anderson County,America/New_York,865,,US,36.22,-84.15,4670
+16615,37770,STANDARD,0,Lancing,,,TN,Morgan County,America/New_York,423,,US,36.15,-84.69,2140
+16616,37771,STANDARD,0,Lenoir City,,,TN,Loudon County,America/New_York,865,,US,35.8,-84.27,14490
+16617,37772,STANDARD,0,Lenoir City,,,TN,Loudon County,America/New_York,865,,US,35.79,-84.22,11830
+16618,37773,PO BOX,0,Lone Mountain,,,TN,Claiborne County,America/New_York,423,,US,36.38,-83.58,28
+16619,37774,STANDARD,0,Loudon,,,TN,Loudon County,America/New_York,"423,865",,US,35.73,-84.35,18680
+16620,37777,STANDARD,0,Louisville,,Mcghee Tyson Ang Base,TN,Blount County,America/New_York,865,,US,35.82,-84.04,10600
+16621,37778,PO BOX,0,Lowland,,,TN,Hamblen County,America/New_York,423,,US,36.15,-83.2,0
+16622,37779,STANDARD,0,Luttrell,Plainview,,TN,Union County,America/New_York,865,,US,36.2,-83.74,3040
+16623,37801,STANDARD,0,Maryville,,,TN,Blount County,America/New_York,865,,US,35.66,-84.09,24330
+16624,37802,PO BOX,0,Maryville,,,TN,Blount County,America/New_York,865,,US,35.74,-83.97,1744
+16626,37804,STANDARD,0,Maryville,,,TN,Blount County,America/New_York,865,,US,35.79,-83.89,22520
+16627,37806,STANDARD,0,Mascot,,,TN,Knox County,America/New_York,865,,US,36.08,-83.73,2710
+16628,37807,STANDARD,0,Maynardville,,,TN,Union County,America/New_York,865,,US,36.24,-83.8,8440
+16629,37809,STANDARD,0,Midway,,,TN,Greene County,America/New_York,423,,US,36.16,-83.04,1790
+16630,37810,STANDARD,0,Mohawk,,,TN,Greene County,America/New_York,423,,US,36.18,-83.12,1490
+16631,37811,STANDARD,0,Mooresburg,,,TN,Hawkins County,America/New_York,423,,US,36.34,-83.22,2810
+16632,37813,STANDARD,0,Morristown,,,TN,Hamblen County,America/New_York,"423,865",,US,36.21,-83.29,14130
+16633,37814,STANDARD,0,Morristown,,,TN,Hamblen County,America/New_York,"865,423",,US,36.23,-83.34,27210
+16636,37818,STANDARD,0,Mosheim,,,TN,Greene County,America/New_York,423,,US,36.19,-82.95,4240
+16637,37819,STANDARD,0,Newcomb,,,TN,Campbell County,America/New_York,423,,US,36.54,-84.2,440
+16638,37820,STANDARD,0,New Market,,,TN,Jefferson County,America/New_York,865,,US,36.09,-83.55,6790
+16639,37821,STANDARD,0,Newport,Mt Sterling,,TN,Cocke County,America/New_York,"423,865",,US,35.96,-83.19,17500
+16641,37824,PO BOX,0,New Tazewell,,,TN,Claiborne County,America/New_York,423,,US,36.43,-83.6,2101
+16643,37826,STANDARD,0,Niota,,,TN,McMinn County,America/New_York,423,,US,35.51,-84.54,3750
+16644,37828,PO BOX,0,Norris,,,TN,Anderson County,America/New_York,865,,US,36.21,-84.06,1589
+16645,37829,STANDARD,0,Oakdale,,,TN,Morgan County,America/New_York,423,,US,36.01,-84.64,1480
+16646,37830,STANDARD,0,Oak Ridge,,,TN,Anderson County,America/New_York,865,,US,35.96,-84.29,27170
+16648,37840,STANDARD,0,Oliver Springs,Oliver Spgs,,TN,Roane County,America/New_York,"423,865",,US,36.03,-84.32,7710
+16649,37841,STANDARD,0,Oneida,,,TN,Scott County,America/New_York,423,,US,36.5,-84.51,7550
+16650,37843,STANDARD,0,Parrottsville,,,TN,Cocke County,America/New_York,865,,US,36.0,-83.09,3100
+16651,37845,PO BOX,0,Petros,,,TN,Morgan County,America/New_York,423,,US,36.09,-84.44,532
+16652,37846,STANDARD,0,Philadelphia,,,TN,Loudon County,America/New_York,423,,US,35.67,-84.4,4070
+16653,37847,STANDARD,0,Pioneer,,,TN,Scott County,America/New_York,,,US,36.46,-84.29,2040
+16654,37848,STANDARD,0,Powder Springs,Powder Spgs,,TN,Grainger County,America/New_York,865,,US,36.24,-83.66,260
+16655,37849,STANDARD,0,Powell,,,TN,Knox County,America/New_York,865,,US,36.03,-84.02,24330
+16656,37851,PO BOX,0,Pruden,,,TN,Claiborne County,America/New_York,423,,US,36.58,-83.91,42
+16657,37852,STANDARD,0,Robbins,,Glen Mary,TN,Scott County,America/New_York,423,,US,36.32,-84.57,1960
+16658,37853,STANDARD,0,Rockford,,,TN,Blount County,America/New_York,865,,US,35.82,-83.93,3120
+16659,37854,STANDARD,0,Rockwood,Ozone,Westel,TN,Roane County,America/New_York,865,,US,35.87,-84.67,9960
+16660,37857,STANDARD,0,Rogersville,,,TN,Hawkins County,America/New_York,423,,US,36.4,-83.0,16550
+16661,37860,STANDARD,0,Russellville,,,TN,Hamblen County,America/New_York,423,,US,36.25,-83.19,3770
+16662,37861,STANDARD,0,Rutledge,,,TN,Grainger County,America/New_York,865,,US,36.27,-83.52,6890
+16663,37862,STANDARD,0,Sevierville,Pigeon Forge,,TN,Sevier County,America/New_York,865,,US,35.78,-83.61,18510
+16664,37863,STANDARD,0,Pigeon Forge,Sevierville,,TN,Sevier County,America/New_York,865,,US,35.79,-83.55,6100
+16665,37864,PO BOX,0,Sevierville,Pigeon Forge,,TN,Sevier County,America/New_York,865,,US,35.89,-83.57,2197
+16666,37865,STANDARD,0,Seymour,,,TN,Sevier County,America/New_York,,,US,35.87,-83.77,20230
+16667,37866,STANDARD,0,Sharps Chapel,,,TN,Union County,America/New_York,865,,US,36.34,-83.8,1560
+16668,37867,PO BOX,0,Shawanee,,,TN,Claiborne County,America/New_York,423,,US,36.57,-83.55,90
+16670,37869,STANDARD,0,Sneedville,,,TN,Hancock County,America/New_York,423,,US,36.53,-83.21,3550
+16671,37870,STANDARD,0,Speedwell,,,TN,Claiborne County,America/New_York,423,,US,36.47,-83.81,3140
+16672,37871,STANDARD,0,Strawberry Plains,Straw Plains,,TN,Jefferson County,America/New_York,,,US,36.06,-83.68,8090
+16673,37872,STANDARD,0,Sunbright,,Burrville,TN,Morgan County,America/New_York,423,,US,36.24,-84.67,1730
+16674,37873,STANDARD,0,Surgoinsville,,,TN,Hawkins County,America/New_York,423,,US,36.47,-82.85,3240
+16675,37874,STANDARD,0,Sweetwater,,,TN,Monroe County,America/New_York,"423,865",,US,35.6,-84.46,12780
+16677,37877,STANDARD,0,Talbott,,,TN,Hamblen County,America/New_York,865,,US,36.14,-83.4,7650
+16678,37878,STANDARD,0,Tallassee,,Happy Valley,TN,Blount County,America/New_York,865,,US,35.62,-83.89,380
+16679,37879,STANDARD,0,Tazewell,,,TN,Claiborne County,America/New_York,423,,US,36.45,-83.57,8040
+16680,37880,STANDARD,0,Ten Mile,,,TN,Meigs County,America/New_York,,,US,35.66,-84.66,2920
+16681,37881,STANDARD,0,Thorn Hill,Treadway,,TN,Grainger County,America/New_York,,,US,36.35,-83.41,1690
+16682,37882,STANDARD,0,Townsend,,,TN,Blount County,America/New_York,865,,US,35.67,-83.75,2680
+16683,37885,STANDARD,0,Vonore,,,TN,Monroe County,America/New_York,423,,US,35.59,-84.23,4960
+16684,37886,STANDARD,0,Walland,,,TN,Blount County,America/New_York,865,,US,35.72,-83.81,3870
+16685,37887,STANDARD,0,Wartburg,,,TN,Morgan County,America/New_York,423,,US,36.1,-84.58,4160
+16686,37888,STANDARD,0,Washburn,,,TN,Grainger County,America/New_York,865,,US,36.31,-83.59,2200
+16687,37890,STANDARD,0,White Pine,Baneberry,,TN,Jefferson County,America/New_York,865,,US,36.09,-83.29,5800
+16688,37891,STANDARD,0,Whitesburg,,,TN,Hamblen County,America/New_York,423,,US,36.29,-83.13,2920
+16689,37892,STANDARD,0,Winfield,,,TN,Scott County,America/New_York,423,,US,36.56,-84.45,1480
+16690,37901,PO BOX,0,Knoxville,,Knox,TN,Knox County,America/New_York,865,,US,35.97,-83.94,488
+16691,37902,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.96,-83.92,1350
+16692,37909,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.95,-84.02,12520
+16693,37912,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,36.01,-83.98,18030
+16694,37914,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.98,-83.8,16750
+16695,37915,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.97,-83.9,3390
+16696,37916,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.95,-83.93,880
+16697,37917,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,36.0,-83.91,17720
+16698,37918,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,36.06,-83.92,38230
+16699,37919,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.91,-84.0,25340
+16700,37920,STANDARD,0,Knoxville,"Kimberlin Heights, Kimberlin Hgt",,TN,Knox County,America/New_York,865,,US,35.91,-83.87,30560
+16702,37922,STANDARD,0,Knoxville,"Concord, Concord Farr, Concord Farragut",,TN,Knox County,America/New_York,865,,US,35.86,-84.1,37560
+16703,37923,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.93,-84.08,25510
+16704,37924,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,36.03,-83.8,11090
+16709,37931,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.98,-84.13,27700
+16710,37932,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,35.92,-84.2,19010
+16712,37934,STANDARD,0,Farragut,"Concord, Knoxville","Concord Farr, Concord Farragut, Knox, Knx, Kville",TN,Knox County,America/New_York,865,,US,35.87,-84.17,26110
+16713,37938,STANDARD,0,Knoxville,,,TN,Knox County,America/New_York,865,,US,36.12,-83.94,17150
+16717,37990,UNIQUE,1,Knoxville,,The Mail Box,TN,Knox County,America/New_York,865,,US,35.86,-84.12,0
+16722,38001,STANDARD,0,Alamo,,,TN,Crockett County,America/Chicago,731,,US,35.78,-89.11,3700
+16723,38002,STANDARD,0,Arlington,"Bartlett, Lakeland",,TN,Shelby County,America/Chicago,901,,US,35.28,-89.66,41880
+16724,38004,STANDARD,0,Atoka,,Crosstown,TN,Tipton County,America/Chicago,901,,US,35.44,-89.77,11260
+16725,38006,STANDARD,0,Bells,,,TN,Crockett County,America/Chicago,731,,US,35.71,-89.08,4440
+16726,38007,PO BOX,0,Bogota,,,TN,Dyer County,America/Chicago,731,,US,36.16,-89.43,157
+16727,38008,STANDARD,0,Bolivar,,,TN,Hardeman County,America/Chicago,731,,US,35.26,-88.99,7440
+16728,38010,PO BOX,0,Braden,,,TN,Fayette County,America/Chicago,901,,US,35.36,-89.57,18
+16729,38011,STANDARD,0,Brighton,,,TN,Tipton County,America/Chicago,901,,US,35.47,-89.73,8640
+16730,38012,STANDARD,0,Brownsville,,,TN,Haywood County,America/Chicago,731,,US,35.59,-89.25,11840
+16731,38014,PO BOX,0,Brunswick,,,TN,Shelby County,America/Chicago,901,,US,35.28,-89.72,173
+16732,38015,STANDARD,0,Burlison,Gilt Edge,Randolph,TN,Tipton County,America/Chicago,901,,US,35.55,-89.78,2260
+16733,38016,STANDARD,0,Cordova,,,TN,Shelby County,America/Chicago,901,,US,35.18,-89.76,42230
+16734,38017,STANDARD,0,Collierville,"Fisherville, Piperton",,TN,Shelby County,America/Chicago,901,,US,35.05,-89.67,53580
+16735,38018,STANDARD,0,Cordova,,,TN,Shelby County,America/Chicago,901,,US,35.15,-89.75,33230
+16736,38019,STANDARD,0,Covington,Garland,,TN,Tipton County,America/Chicago,"731,901",,US,35.56,-89.64,12530
+16737,38021,PO BOX,0,Crockett Mills,Crockett Mls,,TN,Crockett County,America/Chicago,731,,US,35.88,-89.16,180
+16738,38023,STANDARD,0,Drummonds,,,TN,Tipton County,America/Chicago,901,,US,35.46,-89.94,4790
+16739,38024,STANDARD,0,Dyersburg,,,TN,Dyer County,America/Chicago,731,,US,36.03,-89.38,21740
+16742,38028,STANDARD,0,Eads,,,TN,Fayette County,America/Chicago,,,US,35.2,-89.66,6920
+16743,38029,PO BOX,0,Ellendale,,,TN,Shelby County,America/Chicago,901,,US,35.24,-89.82,445
+16744,38030,STANDARD,0,Finley,,,TN,Dyer County,America/Chicago,731,,US,35.98,-89.58,700
+16745,38034,STANDARD,0,Friendship,,,TN,Crockett County,America/Chicago,731,,US,35.91,-89.24,2310
+16746,38036,PO BOX,0,Gallaway,,,TN,Fayette County,America/Chicago,901,,US,35.32,-89.63,407
+16747,38037,STANDARD,0,Gates,,,TN,Lauderdale County,America/Chicago,,,US,35.83,-89.4,1310
+16748,38039,STANDARD,0,Grand Junction,Grand Jct,,TN,Hardeman County,America/Chicago,"731,901",,US,35.04,-89.18,1660
+16749,38040,STANDARD,0,Halls,,,TN,Lauderdale County,America/Chicago,731,,US,35.88,-89.4,4100
+16750,38041,STANDARD,0,Henning,Fort Pillow,,TN,Lauderdale County,America/Chicago,731,,US,35.67,-89.57,1890
+16751,38042,STANDARD,0,Hickory Valley,Hickory Vly,,TN,Hardeman County,America/Chicago,901,,US,35.15,-89.12,580
+16752,38044,STANDARD,0,Hornsby,,,TN,Hardeman County,America/Chicago,731,,US,35.22,-88.83,670
+16753,38045,PO BOX,0,Laconia,,,TN,Fayette County,America/Chicago,901,,US,35.31,-89.23,28
+16754,38046,PO BOX,0,La Grange,,,TN,Fayette County,America/Chicago,901,,US,35.07,-89.25,205
+16755,38047,STANDARD,0,Lenox,,,TN,Dyer County,America/Chicago,731,,US,36.09,-89.5,119
+16756,38048,PO BOX,0,Macon,,,TN,Fayette County,America/Chicago,901,,US,35.17,-89.54,107
+16757,38049,STANDARD,0,Mason,,,TN,Tipton County,America/Chicago,901,,US,35.41,-89.53,3430
+16758,38050,PO BOX,0,Maury City,,,TN,Crockett County,America/Chicago,731,,US,35.83,-89.23,785
+16759,38052,STANDARD,0,Middleton,,,TN,Hardeman County,America/Chicago,731,,US,35.06,-88.89,3120
+16760,38053,STANDARD,0,Millington,,"Barretville, Cloverdale, Cuba, Dixonville, East Acres, Kerrville, Locke, Lucy, Quito, Rosemark, Wilkinsville, Woodstock",TN,Shelby County,America/Chicago,901,,US,35.33,-89.88,23580
+16761,38054,PO BOX,0,Millington,,Naval Hospital,TN,Shelby County,America/Chicago,901,,US,35.34,-89.87,200
+16763,38057,STANDARD,0,Moscow,,,TN,Fayette County,America/Chicago,901,,US,35.06,-89.39,3220
+16764,38058,STANDARD,0,Munford,,,TN,Tipton County,America/Chicago,901,,US,35.44,-89.8,9770
+16765,38059,STANDARD,0,Newbern,,,TN,Dyer County,America/Chicago,731,,US,36.11,-89.26,6730
+16766,38060,STANDARD,0,Oakland,Somerville,,TN,Fayette County,America/Chicago,901,,US,35.22,-89.51,10810
+16767,38061,STANDARD,0,Pocahontas,,Essary Springs,TN,Hardeman County,America/Chicago,731,,US,35.05,-88.81,720
+16768,38063,STANDARD,0,Ripley,,,TN,Lauderdale County,America/Chicago,731,,US,35.74,-89.53,12410
+16769,38066,STANDARD,0,Rossville,,,TN,Fayette County,America/Chicago,901,,US,35.04,-89.54,2990
+16770,38067,STANDARD,0,Saulsbury,,,TN,Hardeman County,America/Chicago,"731,901",,US,35.04,-89.08,980
+16771,38068,STANDARD,0,Somerville,Mason,,TN,Fayette County,America/Chicago,901,,US,35.23,-89.35,9090
+16772,38069,STANDARD,0,Stanton,,,TN,Haywood County,America/Chicago,731,,US,35.46,-89.4,1980
+16773,38070,PO BOX,0,Tigrett,,,TN,Dyer County,America/Chicago,731,,US,35.94,-89.24,167
+16774,38071,PO BOX,0,Tipton,,,TN,Tipton County,America/Chicago,901,,US,35.46,-89.97,171
+16775,38075,STANDARD,0,Whiteville,Somerville,,TN,Hardeman County,America/Chicago,"731,901",,US,35.32,-89.14,2960
+16776,38076,STANDARD,0,Williston,"Moscow, Oakland, Rossville",,TN,Fayette County,America/Chicago,901,,US,35.14,-89.44,700
+16777,38077,PO BOX,0,Wynnburg,,,TN,Lake County,America/Chicago,731,,US,36.33,-89.47,95
+16778,38079,STANDARD,0,Tiptonville,,,TN,Lake County,America/Chicago,731,,US,36.37,-89.47,2230
+16779,38080,STANDARD,0,Ridgely,Miston,,TN,Lake County,America/Chicago,731,,US,36.26,-89.48,1850
+16784,38104,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.13,-90.0,15800
+16785,38105,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.15,-90.03,3830
+16786,38106,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.1,-90.09,18030
+16787,38107,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.17,-90.02,11930
+16788,38108,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.18,-89.97,13360
+16789,38109,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.04,-90.16,37390
+16790,38110,UNIQUE,1,Memphis,,"Mem, I R S, Mphs",TN,Shelby County,America/Chicago,901,,US,35.05,-89.94,0
+16791,38111,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.11,-89.94,30580
+16792,38112,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.15,-89.98,12060
+16795,38115,STANDARD,0,Memphis,Hickory Hill,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.05,-89.86,32680
+16796,38116,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.03,-90.01,33870
+16797,38117,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.12,-89.91,24310
+16798,38118,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.03,-89.93,34860
+16799,38119,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.08,-89.85,20330
+16800,38120,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.12,-89.85,13290
+16801,38122,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.16,-89.92,19960
+16803,38125,STANDARD,0,Memphis,Hickory Hill,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.03,-89.79,37680
+16804,38126,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.13,-90.04,3940
+16805,38127,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.24,-90.02,34840
+16806,38128,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.22,-89.93,36620
+16808,38131,STANDARD,0,Memphis,,,TN,Shelby County,America/Chicago,901,,US,35.07,-89.99,0
+16810,38133,STANDARD,0,Memphis,Bartlett,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.21,-89.79,20960
+16811,38134,STANDARD,0,Memphis,Bartlett,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.17,-89.86,33690
+16812,38135,STANDARD,0,Memphis,Bartlett,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.24,-89.85,27690
+16815,38138,STANDARD,0,Germantown,Memphis,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.08,-89.79,24900
+16816,38139,STANDARD,0,Germantown,Memphis,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.08,-89.76,17030
+16817,38141,STANDARD,0,Memphis,,"Mem, Mphs",TN,Shelby County,America/Chicago,901,,US,35.02,-89.86,20760
+16818,38142,UNIQUE,1,Memphis,,"Mphs, Credit Card Service Center, Mem",TN,Shelby County,America/Chicago,901,,US,35.14,-90.04,0
+16824,38152,UNIQUE,0,Memphis,,"Mem, Mphs, University Of Memphis",TN,Shelby County,America/Chicago,901,,US,35.12,-89.93,140
+16848,38201,STANDARD,0,Mc Kenzie,,,TN,Carroll County,America/Chicago,731,,US,36.13,-88.51,7480
+16849,38220,STANDARD,0,Atwood,,,TN,Carroll County,America/Chicago,731,,US,35.97,-88.67,1540
+16850,38221,STANDARD,0,Big Sandy,,,TN,Benton County,America/Chicago,731,,US,36.23,-88.08,2460
+16851,38222,STANDARD,0,Buchanan,,,TN,Henry County,America/Chicago,731,,US,36.42,-88.17,2260
+16852,38223,PO BOX,0,Como,,,TN,Henry County,America/Chicago,731,,US,36.28,-88.5,62
+16853,38224,STANDARD,0,Cottage Grove,,,TN,Henry County,America/Chicago,731,,US,36.37,-88.47,830
+16854,38225,STANDARD,0,Dresden,,,TN,Weakley County,America/Chicago,731,,US,36.27,-88.69,4660
+16855,38226,STANDARD,0,Dukedom,,,TN,Weakley County,America/Chicago,731,,US,36.47,-88.66,240
+16856,38227,STANDARD,1,Elbridge,,,TN,,America/Chicago,,,US,36.26,-89.32,0
+16857,38229,STANDARD,0,Gleason,,,TN,Weakley County,America/Chicago,731,,US,36.21,-88.61,2170
+16858,38230,STANDARD,0,Greenfield,,,TN,Weakley County,America/Chicago,731,,US,36.15,-88.8,2810
+16859,38231,STANDARD,0,Henry,,,TN,Henry County,America/Chicago,731,,US,36.2,-88.41,1370
+16860,38232,STANDARD,0,Hornbeak,,,TN,Obion County,America/Chicago,731,,US,36.33,-89.29,1470
+16861,38233,STANDARD,0,Kenton,,Masonhall,TN,Gibson County,America/Chicago,731,,US,36.19,-89.01,2070
+16862,38235,PO BOX,0,Mc Lemoresville,Mc Lemoresvle,Mclemoresville,TN,Carroll County,America/Chicago,731,,US,35.99,-88.56,304
+16863,38236,STANDARD,0,Mansfield,,,TN,Henry County,America/Chicago,731,,US,36.18,-88.28,530
+16864,38237,STANDARD,0,Martin,,,TN,Weakley County,America/Chicago,731,,US,36.34,-88.85,11130
+16866,38240,STANDARD,0,Obion,,,TN,Obion County,America/Chicago,,,US,36.26,-89.19,1590
+16867,38241,STANDARD,0,Palmersville,,,TN,Weakley County,America/Chicago,731,,US,36.41,-88.58,560
+16868,38242,STANDARD,0,Paris,,,TN,Henry County,America/Chicago,731,,US,36.3,-88.3,16700
+16869,38251,STANDARD,0,Puryear,,,TN,Henry County,America/Chicago,731,,US,36.44,-88.33,2330
+16870,38253,STANDARD,0,Rives,,,TN,Obion County,America/Chicago,731,,US,36.35,-89.04,880
+16871,38254,PO BOX,0,Samburg,,,TN,Obion County,America/Chicago,731,,US,36.38,-89.35,190
+16872,38255,STANDARD,0,Sharon,,,TN,Weakley County,America/Chicago,731,,US,36.23,-88.82,1740
+16873,38256,STANDARD,0,Springville,,,TN,Henry County,America/Chicago,731,,US,36.25,-88.15,2630
+16874,38257,STANDARD,0,South Fulton,,,TN,Obion County,America/Chicago,731,,US,36.49,-88.88,3690
+16875,38258,STANDARD,0,Trezevant,,,TN,Carroll County,America/Chicago,731,,US,36.01,-88.62,1170
+16876,38259,STANDARD,0,Trimble,,,TN,Dyer County,America/Chicago,731,,US,36.2,-89.18,660
+16877,38260,STANDARD,0,Troy,,,TN,Obion County,America/Chicago,731,,US,36.33,-89.16,3430
+16878,38261,STANDARD,0,Union City,,,TN,Obion County,America/Chicago,731,,US,36.42,-89.05,13550
+16879,38271,PO BOX,0,Woodland Mills,Woodland Mls,,TN,Obion County,America/Chicago,731,,US,36.47,-89.11,142
+16881,38301,STANDARD,0,Jackson,,,TN,Madison County,America/Chicago,731,,US,35.63,-88.82,25510
+16884,38305,STANDARD,0,Jackson,,,TN,Madison County,America/Chicago,731,,US,35.7,-88.77,45550
+16886,38310,STANDARD,0,Adamsville,,,TN,McNairy County,America/Chicago,731,,US,35.23,-88.38,4770
+16887,38311,STANDARD,0,Bath Springs,,,TN,Decatur County,America/Chicago,931,,US,35.44,-88.1,720
+16888,38313,STANDARD,0,Beech Bluff,,,TN,Madison County,America/Chicago,,,US,35.6,-88.63,2820
+16890,38315,STANDARD,0,Bethel Springs,Bethel Spgs,,TN,McNairy County,America/Chicago,731,,US,35.23,-88.6,2930
+16891,38316,STANDARD,0,Bradford,,,TN,Gibson County,America/Chicago,731,,US,36.07,-88.81,2330
+16892,38317,STANDARD,0,Bruceton,,,TN,Carroll County,America/Chicago,731,,US,36.03,-88.24,1900
+16893,38318,STANDARD,0,Buena Vista,,,TN,Carroll County,America/Chicago,731,,US,35.98,-88.28,370
+16894,38320,STANDARD,0,Camden,,,TN,Benton County,America/Chicago,731,,US,36.06,-88.1,8420
+16895,38321,STANDARD,0,Cedar Grove,,,TN,Carroll County,America/Chicago,731,,US,35.81,-88.6,2060
+16896,38324,PO BOX,0,Clarksburg,,,TN,Carroll County,America/Chicago,731,,US,35.87,-88.38,190
+16897,38326,STANDARD,0,Counce,,,TN,Hardin County,America/Chicago,731,,US,35.03,-88.29,2060
+16898,38327,STANDARD,0,Crump,,,TN,Hardin County,America/Chicago,731,,US,35.23,-88.32,410
+16899,38328,STANDARD,0,Darden,,,TN,Henderson County,America/Chicago,731,,US,35.63,-88.23,730
+16900,38329,STANDARD,0,Decaturville,,,TN,Decatur County,America/Chicago,731,,US,35.58,-88.11,2780
+16901,38330,STANDARD,0,Dyer,,,TN,Gibson County,America/Chicago,731,,US,36.07,-88.99,3300
+16902,38331,PO BOX,0,Eaton,,,TN,Gibson County,America/Chicago,731,,US,35.96,-89.13,16
+16903,38332,STANDARD,0,Enville,,,TN,Chester County,America/Chicago,,,US,35.38,-88.42,880
+16904,38333,STANDARD,0,Eva,,,TN,Benton County,America/Chicago,731,,US,36.11,-87.99,350
+16905,38334,STANDARD,0,Finger,,,TN,McNairy County,America/Chicago,731,,US,35.35,-88.61,1550
+16906,38336,PO BOX,0,Fruitvale,,,TN,Crockett County,America/Chicago,731,,US,35.72,-89.06,0
+16907,38337,STANDARD,0,Gadsden,,,TN,Crockett County,America/Chicago,731,,US,35.79,-89.01,1180
+16908,38338,PO BOX,0,Gibson,,,TN,Gibson County,America/Chicago,731,,US,35.87,-88.84,352
+16909,38339,STANDARD,0,Guys,,,TN,McNairy County,America/Chicago,731,,US,35.05,-88.52,610
+16910,38340,STANDARD,0,Henderson,,,TN,Chester County,America/Chicago,731,,US,35.44,-88.64,10200
+16911,38341,STANDARD,0,Holladay,,,TN,Benton County,America/Chicago,,,US,35.89,-88.07,1680
+16912,38342,STANDARD,0,Hollow Rock,,,TN,Carroll County,America/Chicago,731,,US,36.03,-88.27,1080
+16913,38343,STANDARD,0,Humboldt,Three Way,,TN,Gibson County,America/Chicago,731,,US,35.82,-88.9,13010
+16914,38344,STANDARD,0,Huntingdon,,Leach,TN,Carroll County,America/Chicago,731,,US,36.0,-88.41,7260
+16915,38345,STANDARD,0,Huron,,,TN,Henderson County,America/Chicago,731,,US,35.58,-88.5,1680
+16916,38346,PO BOX,0,Idlewild,,,TN,Gibson County,America/Chicago,731,,US,35.98,-88.77,67
+16917,38347,STANDARD,0,Jacks Creek,,,TN,Chester County,America/Chicago,731,,US,35.48,-88.5,360
+16918,38348,STANDARD,0,Lavinia,,,TN,Carroll County,America/Chicago,731,,US,35.86,-88.64,730
+16919,38351,STANDARD,0,Lexington,,,TN,Henderson County,America/Chicago,731,,US,35.65,-88.39,14930
+16920,38352,STANDARD,0,Luray,,,TN,Chester County,America/Chicago,731,,US,35.53,-88.53,510
+16921,38355,STANDARD,0,Medina,,,TN,Gibson County,America/Chicago,731,,US,35.8,-88.77,6960
+16922,38356,STANDARD,0,Medon,,,TN,Madison County,America/Chicago,,,US,35.45,-88.86,1960
+16923,38357,STANDARD,0,Michie,,,TN,McNairy County,America/Chicago,731,,US,35.06,-88.42,2310
+16924,38358,STANDARD,0,Milan,,Milan Army Ammunition Plant,TN,Gibson County,America/Chicago,731,,US,35.91,-88.75,9980
+16925,38359,STANDARD,0,Milledgeville,,,TN,McNairy County,America/Chicago,731,,US,35.37,-88.36,220
+16926,38361,STANDARD,0,Morris Chapel,,,TN,Hardin County,America/Chicago,731,,US,35.31,-88.35,770
+16927,38362,STANDARD,0,Oakfield,,,TN,Madison County,America/Chicago,731,,US,35.73,-88.78,1190
+16928,38363,STANDARD,0,Parsons,,,TN,Decatur County,America/Chicago,731,,US,35.65,-88.12,4360
+16929,38365,PO BOX,0,Pickwick Dam,,,TN,Hardin County,America/Chicago,731,,US,35.05,-88.23,245
+16930,38366,STANDARD,0,Pinson,,,TN,Madison County,America/Chicago,731,,US,35.47,-88.73,1900
+16931,38367,STANDARD,0,Ramer,Eastview,,TN,McNairy County,America/Chicago,731,,US,35.07,-88.61,2110
+16932,38368,STANDARD,0,Reagan,,,TN,Henderson County,America/Chicago,,,US,35.51,-88.35,1590
+16933,38369,STANDARD,0,Rutherford,,,TN,Gibson County,America/Chicago,731,,US,36.12,-88.99,1490
+16934,38370,STANDARD,0,Saltillo,,,TN,Hardin County,America/Chicago,731,,US,35.37,-88.21,470
+16935,38371,STANDARD,0,Sardis,,,TN,Henderson County,America/Chicago,731,,US,35.44,-88.29,1030
+16936,38372,STANDARD,0,Savannah,,,TN,Hardin County,America/Chicago,731,,US,35.22,-88.23,14120
+16937,38374,STANDARD,0,Scotts Hill,,,TN,Henderson County,America/Chicago,731,,US,35.51,-88.23,1570
+16938,38375,STANDARD,0,Selmer,,Lawton,TN,McNairy County,America/Chicago,731,,US,35.17,-88.59,7180
+16939,38376,STANDARD,0,Shiloh,,,TN,Hardin County,America/Chicago,731,,US,35.11,-88.36,230
+16940,38377,PO BOX,0,Silerton,,,TN,Hardeman County,America/Chicago,731,,US,35.34,-88.8,0
+16941,38378,PO BOX,0,Spring Creek,,,TN,Madison County,America/Chicago,731,,US,35.76,-88.68,107
+16942,38379,STANDARD,0,Stantonville,,,TN,McNairy County,America/Chicago,731,,US,35.15,-88.42,1030
+16943,38380,STANDARD,0,Sugar Tree,,,TN,Decatur County,America/Chicago,,,US,35.79,-88.02,380
+16944,38381,STANDARD,0,Toone,,,TN,Hardeman County,America/Chicago,731,,US,35.35,-88.95,1200
+16945,38382,STANDARD,0,Trenton,,,TN,Gibson County,America/Chicago,731,,US,35.97,-88.93,7440
+16946,38387,STANDARD,0,Westport,,,TN,Carroll County,America/Chicago,731,,US,35.88,-88.29,340
+16947,38388,STANDARD,0,Wildersville,"Parker Crossroads, Parker Xroads",,TN,Henderson County,America/Chicago,731,,US,35.78,-88.36,1310
+16948,38389,PO BOX,0,Yorkville,,,TN,Gibson County,America/Chicago,731,,US,36.09,-89.11,163
+16949,38390,STANDARD,0,Yuma,,,TN,Carroll County,America/Chicago,731,,US,35.86,-88.37,810
+16950,38391,STANDARD,0,Denmark,,,TN,Madison County,America/Chicago,731,,US,35.54,-88.97,1030
+16951,38392,STANDARD,0,Mercer,,,TN,Madison County,America/Chicago,731,,US,35.48,-89.03,610
+16952,38393,PO BOX,0,Chewalla,,,TN,McNairy County,America/Chicago,731,,US,35.02,-88.67,0
+16953,38401,STANDARD,0,Columbia,,,TN,Maury County,America/Chicago,"615,931",,US,35.62,-87.04,53080
+16955,38425,STANDARD,0,Clifton,,,TN,Wayne County,America/Chicago,931,,US,35.38,-87.99,1410
+16956,38449,STANDARD,0,Ardmore,,Dellrose,TN,Giles County,America/Chicago,931,,US,35.04,-86.82,2700
+16957,38450,STANDARD,0,Collinwood,,,TN,Wayne County,America/Chicago,931,,US,35.17,-87.74,2010
+16958,38451,STANDARD,0,Culleoka,,,TN,Maury County,America/Chicago,931,,US,35.46,-86.99,4720
+16959,38452,STANDARD,0,Cypress Inn,,,TN,Wayne County,America/Chicago,931,,US,35.05,-87.79,740
+16960,38453,STANDARD,0,Dellrose,,,TN,Lincoln County,America/Chicago,931,,US,35.11,-86.8,370
+16961,38454,STANDARD,0,Duck River,,,TN,Hickman County,America/Chicago,931,,US,35.71,-87.35,890
+16962,38455,PO BOX,0,Elkton,,,TN,Giles County,America/Chicago,931,,US,35.04,-86.89,428
+16963,38456,STANDARD,0,Ethridge,,,TN,Lawrence County,America/Chicago,931,,US,35.32,-87.3,3010
+16964,38457,STANDARD,0,Five Points,,,TN,Lawrence County,America/Chicago,931,,US,35.03,-87.28,630
+16965,38459,STANDARD,0,Frankewing,,,TN,Lincoln County,America/Chicago,931,,US,35.19,-86.8,380
+16966,38460,STANDARD,0,Goodspring,,,TN,Giles County,America/Chicago,931,,US,35.12,-87.14,1170
+16967,38461,STANDARD,0,Hampshire,,,TN,Maury County,America/Chicago,931,,US,35.58,-87.35,1310
+16968,38462,STANDARD,0,Hohenwald,Kimmins,,TN,Lewis County,America/Chicago,931,,US,35.55,-87.55,8560
+16969,38463,STANDARD,0,Iron City,,,TN,Wayne County,America/Chicago,,,US,35.02,-87.58,2220
+16970,38464,STANDARD,0,Lawrenceburg,,,TN,Lawrence County,America/Chicago,931,,US,35.24,-87.33,18770
+16971,38468,STANDARD,0,Leoma,,,TN,Lawrence County,America/Chicago,931,,US,35.12,-87.3,4590
+16972,38469,STANDARD,0,Loretto,,,TN,Lawrence County,America/Chicago,931,,US,35.08,-87.43,3560
+16973,38471,STANDARD,0,Lutts,,,TN,Wayne County,America/Chicago,931,,US,35.11,-87.9,370
+16974,38472,STANDARD,0,Lynnville,,,TN,Giles County,America/Chicago,931,,US,35.37,-87.0,2390
+16975,38473,STANDARD,0,Minor Hill,,,TN,Giles County,America/Chicago,931,,US,35.03,-87.17,890
+16976,38474,STANDARD,0,Mount Pleasant,Mt Pleasant,,TN,Maury County,America/Chicago,931,,US,35.55,-87.19,7010
+16977,38475,STANDARD,0,Olivehill,,,TN,Hardin County,America/Chicago,931,,US,35.26,-88.04,600
+16978,38476,STANDARD,0,Primm Springs,,,TN,Williamson County,America/Chicago,615,,US,35.8,-87.25,1120
+16979,38477,STANDARD,0,Prospect,,,TN,Giles County,America/Chicago,931,,US,35.05,-87.0,2130
+16980,38478,STANDARD,0,Pulaski,,,TN,Giles County,America/Chicago,931,,US,35.19,-87.03,14650
+16981,38481,STANDARD,0,Saint Joseph,,St Joseph,TN,Lawrence County,America/Chicago,931,,US,35.03,-87.49,750
+16982,38482,STANDARD,0,Santa Fe,,,TN,Maury County,America/Chicago,931,,US,35.75,-87.16,1640
+16983,38483,STANDARD,0,Summertown,,,TN,Lawrence County,America/Chicago,931,,US,35.43,-87.33,5030
+16984,38485,STANDARD,0,Waynesboro,,,TN,Wayne County,America/Chicago,931,,US,35.32,-87.75,4940
+16985,38486,STANDARD,0,Westpoint,,,TN,Lawrence County,America/Chicago,,,US,35.15,-87.53,820
+16986,38487,STANDARD,0,Williamsport,,,TN,Maury County,America/Chicago,931,,US,35.72,-87.23,960
+16987,38488,STANDARD,0,Taft,,,TN,Lincoln County,America/Chicago,931,,US,35.05,-86.68,2150
+16988,38501,STANDARD,0,Cookeville,Algood,,TN,Putnam County,America/Chicago,931,,US,36.15,-85.5,29500
+16991,38504,STANDARD,0,Allardt,,,TN,Fentress County,America/Chicago,931,,US,36.38,-84.88,1050
+16992,38505,UNIQUE,0,Cookeville,,Tennessee Tech Univ,TN,Putnam County,America/Chicago,931,,US,36.18,-85.51,71
+16993,38506,STANDARD,0,Cookeville,,"Cookevl, Cookevle",TN,Putnam County,America/Chicago,931,,US,36.19,-85.43,25610
+16994,38541,STANDARD,0,Allons,,,TN,Overton County,America/Chicago,,,US,36.51,-85.32,1340
+16995,38542,STANDARD,0,Allred,,,TN,Overton County,America/Chicago,931,,US,36.32,-85.2,31
+16996,38543,STANDARD,0,Alpine,,,TN,Overton County,America/Chicago,931,,US,36.36,-85.14,420
+16997,38544,STANDARD,0,Baxter,,,TN,Putnam County,America/Chicago,931,,US,36.15,-85.63,6260
+16998,38545,STANDARD,0,Bloomington Springs,Blmngton Spgs,,TN,Jackson County,America/Chicago,931,,US,36.22,-85.66,1070
+16999,38547,STANDARD,0,Brush Creek,,,TN,Smith County,America/Chicago,615,,US,36.11,-86.01,1910
+17000,38548,STANDARD,0,Buffalo Valley,Buffalo Vly,,TN,Putnam County,America/Chicago,615,,US,36.18,-85.75,660
+17001,38549,STANDARD,0,Byrdstown,,,TN,Pickett County,America/Chicago,931,,US,36.57,-85.13,3030
+17002,38550,PO BOX,0,Campaign,,,TN,Warren County,America/Chicago,931,,US,35.76,-85.64,56
+17003,38551,STANDARD,0,Celina,,,TN,Clay County,America/Chicago,931,,US,36.54,-85.5,3060
+17004,38552,STANDARD,0,Chestnut Mound,Chestnut Mnd,,TN,Smith County,America/Chicago,615,,US,36.22,-85.81,340
+17005,38553,STANDARD,0,Clarkrange,,,TN,Fentress County,America/Chicago,931,,US,36.21,-84.96,2080
+17006,38554,STANDARD,0,Crawford,,,TN,Overton County,America/Chicago,931,,US,36.24,-85.18,670
+17007,38555,STANDARD,0,Crossville,"Fairfield Glade, Fairfld Glde",Fairfield,TN,Cumberland County,America/Chicago,931,,US,35.95,-85.03,15370
+17008,38556,STANDARD,0,Jamestown,,,TN,Fentress County,America/Chicago,931,,US,36.43,-84.93,9280
+17010,38558,STANDARD,0,Crossville,,"Crossvl, Crossvle, Fairfield, Fairfield Glade, Fairfld Glade",TN,Cumberland County,America/Chicago,931,,US,36.01,-84.87,8380
+17011,38559,STANDARD,0,Doyle,,,TN,White County,America/Chicago,931,,US,35.85,-85.51,1000
+17012,38560,STANDARD,0,Elmwood,,,TN,Smith County,America/Chicago,615,,US,36.24,-85.88,1150
+17013,38562,STANDARD,0,Gainesboro,,,TN,Jackson County,America/Chicago,931,,US,36.36,-85.65,4780
+17014,38563,STANDARD,0,Gordonsville,,New Middleton,TN,Smith County,America/Chicago,615,,US,36.18,-85.93,2310
+17015,38564,STANDARD,0,Granville,,,TN,Jackson County,America/Chicago,931,,US,36.27,-85.74,440
+17016,38565,STANDARD,0,Grimsley,,,TN,Fentress County,America/Chicago,931,,US,36.25,-85.03,990
+17017,38567,STANDARD,0,Hickman,,,TN,Smith County,America/Chicago,615,,US,36.1,-85.9,760
+17018,38568,STANDARD,0,Hilham,,,TN,Overton County,America/Chicago,,,US,36.44,-85.47,1670
+17019,38569,STANDARD,0,Lancaster,,,TN,Smith County,America/Chicago,615,,US,36.09,-85.85,310
+17020,38570,STANDARD,0,Livingston,,,TN,Overton County,America/Chicago,931,,US,36.38,-85.32,7750
+17021,38571,STANDARD,0,Crossville,,,TN,Cumberland County,America/Chicago,931,,US,36.05,-85.01,11450
+17022,38572,STANDARD,0,Crossville,,,TN,Cumberland County,America/Chicago,931,,US,35.85,-85.13,10090
+17023,38573,STANDARD,0,Monroe,,,TN,Overton County,America/Chicago,,,US,36.45,-85.2,1770
+17024,38574,STANDARD,0,Monterey,,,TN,Putnam County,America/Chicago,931,,US,36.13,-85.24,6960
+17025,38575,STANDARD,0,Moss,,,TN,Clay County,America/Chicago,931,,US,36.59,-85.68,890
+17026,38577,STANDARD,0,Pall Mall,,,TN,Pickett County,America/Chicago,,,US,36.56,-84.95,870
+17027,38578,PO BOX,0,Pleasant Hill,,,TN,Cumberland County,America/Chicago,931,,US,35.98,-85.2,698
+17028,38579,STANDARD,0,Quebeck,,,TN,White County,America/Chicago,931,,US,35.84,-85.55,860
+17029,38580,STANDARD,0,Rickman,,,TN,Overton County,America/Chicago,931,,US,36.29,-85.3,1830
+17030,38581,STANDARD,0,Rock Island,Bone Cave,,TN,Warren County,America/Chicago,931,,US,35.71,-85.6,3540
+17031,38582,STANDARD,0,Silver Point,,,TN,Putnam County,America/Chicago,,,US,36.09,-85.76,1160
+17032,38583,STANDARD,0,Sparta,Ravenscroft,Riverwatch,TN,White County,America/Chicago,931,,US,35.93,-85.47,20500
+17033,38585,STANDARD,0,Spencer,,,TN,Van Buren County,America/Chicago,"423,931",,US,35.74,-85.45,3370
+17034,38587,STANDARD,0,Walling,,,TN,White County,America/Chicago,931,,US,35.85,-85.62,1160
+17035,38588,STANDARD,0,Whitleyville,,,TN,Jackson County,America/Chicago,931,,US,36.48,-85.7,850
+17036,38589,STANDARD,0,Wilder,,,TN,Overton County,America/Chicago,931,,US,36.26,-85.08,93

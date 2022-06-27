@@ -1,0 +1,170 @@
+,Latitude,Longitude,Main Address,City,State,Zip Code,County,FIPS,_merge
+0,36.520866,-87.232557,590 Fire Station Suite A,Clarksville,TN,37043,Montgomery County,47125,both
+1,36.5654,-87.3096,2166 Wilma Rudolph Blvd,Clarksville,TN,37040,Montgomery County,47125,both
+2,36.62122,-87.318476,3836 Trenton Rd,Clarksville,TN,37040,Montgomery County,47125,both
+3,36.476811,-86.854058,3987 Memorial Blvd,Springfield,TN,37172,Robertson County,47147,both
+4,36.501343,-87.371874,1206 State Hwy 48,Clarksville,TN,37040,Montgomery County,47125,both
+5,36.578888,-87.409595,100 Quin Ln,Clarksville,TN,37042,Montgomery County,47125,both
+6,36.6196,-87.4307,2609-F E. Ft. Campbell BLVD Gates 1-2,Clarksville,TN,37042,Montgomery County,47125,both
+7,36.297371,-87.048509,312 Frey St,Ashland City,TN,37015,Cheatham County,47021,both
+8,36.4154,-86.7937,2247 Highway 41 S.,Greenbrier,TN,37073,Robertson County,47147,both
+9,36.065103,-86.630431,823 Hamilton Crossing,Antioch,TN,37013,Davidson County,47037,both
+10,36.052087,-86.713872,5320 Nolensville Pike,Nashville,TN,37211,Davidson County,47037,both
+11,36.020677,-86.580738,5094A Murfreesboro Road,La Vergne,TN,37086,Rutherford County,47149,both
+12,35.995053,-86.686803,7115 Southpoint Pkwy,Brentwood,TN,37013,Davidson County,47037,both
+13,36.080692,-86.723369,20 Harding Mall Drive,Nashville,TN,37211,Davidson County,47037,both
+14,36.126395,-86.710068,1100 Murfreesboro Pike,Nashville,TN,37217,Davidson County,47037,both
+15,36.036688,-86.788556,4904 Thoroughbred Lane,Brentwood,TN,37027,Davidson County,47037,both
+16,36.169459,-86.676533,2535 Lebanon Pike,Nashville,TN,37214,Davidson County,47037,both
+17,35.975388,-86.51497,115 Enon Springs Road,Smyrna,TN,37167,Rutherford County,47149,both
+18,36.182857,-86.606584,5510 Old Hickory Blvd. Suite A,Hermitage,TN,37076,Davidson County,47037,both
+19,36.25192,-85.95334,117 Water St,Carthage,TN,37030,Smith County,47159,both
+20,35.958079,-85.809274,400 E. Broad Street,Smithville,TN,37166,DeKalb County,47041,both
+21,36.211466,-86.315702,1020 West Main St.,Lebanon,TN,37087,Wilson County,47189,both
+22,35.870289,-86.389178,235 Mtcs Drive,Murfreesboro,TN,37129,Rutherford County,47149,both
+23,35.843452,-86.366792,118 N Baird Lane,Murfreesboro,TN,37130,Rutherford County,47149,both
+24,35.824743,-86.417453,1515 Warrior Drive,Murfreesboro,TN,37128,Rutherford County,47149,both
+25,35.866224,-86.462976,1144 Fortress Sq Blvd,Murfreesboro,TN,37129,Rutherford County,47149,both
+26,36.178302,-86.519553,300 Pleasant Grove Road,Mt. Juliet,TN,37122,Wilson County,47189,both
+27,36.116554,-85.507577,1683 S Jefferson Ave,Cookeville,TN,38506,Putnam County,47141,both
+28,35.9556,-86.8037,9040B Carothers Pkwy,Franklin,TN,37067,Williamson County,47187,both
+29,36.209672,-86.839241,3956 Clarksville Pike,Nashville,TN,37218,Davidson County,47037,both
+30,36.149528,-86.859617,5631 Charlotte Rd,Nashville,TN,37209,Davidson County,47037,both
+31,36.07314,-86.92376,7087 Old Harding Pike,Nashville,TN,37221,Davidson County,47037,both
+32,36.2273,-86.7596,3041 Dickerson Rd,Nashville,TN,37207,Davidson County,47037,both
+33,36.1369,-86.7996,2004 Belcourt Ave,Nashville,TN,37212,Davidson County,47037,both
+34,36.1058,-86.815693,2109 Abbott-Martin Road,Nashville,TN,37215,Davidson County,47037,both
+35,35.75999,-86.40414,3940 Shelbyville Hwy,Murfreesboro,TN,37127,Rutherford County,47149,both
+36,35.695072,-85.781033,733 N Chancery Street,Mcminnville,TN,37110,Warren County,47177,both
+37,35.4693,-86.0723,1415 Hillsboro Blvd,Manchester,TN,37355,Coffee County,47031,both
+38,35.487706,-86.446952,719 Madison St,Shelbyville,TN,37160,Bedford County,47003,both
+39,35.365389,-86.204549,400 E Lincoln Avenue,Tullahoma,TN,37388,Coffee County,47031,both
+40,35.6119,-86.6996,4640 Nashville Hwy Ste D,Chapel Hill,TN,37034,Marshall County,47117,both
+41,35.46012,-86.78106,712 N Ellington Pkwy,Lewisburg,TN,37091,Marshall County,47117,both
+42,35.1494,-86.5712,409 S Main Ave,Fayetteville,TN,37334,Lincoln County,47103,both
+43,35.1934,-87.0335,603 S 1st St.,Pulaski,TN,38478,Giles County,47055,both
+44,35.639258,-87.01428,1116 Nashville Highway,Columbia,TN,38401,Maury County,47119,both
+45,35.612265,-87.069024,928 W James Campbell Blvd,Columbia,TN,38401,Maury County,47119,both
+46,35.746479,-86.936707,5407 Main St Suite 101,Spring Hill,TN,37174,Maury County,47119,both
+47,35.77307,-86.91429,3012 Longford Dr #11,Spring Hill,TN,37174,Williamson County,47187,both
+48,36.382385,-86.457366,420 Maple St,Gallatin,TN,37066,Sumner County,47165,both
+49,36.588616,-86.521549,453 N. BROADWAY,Portland,TN,37148,Sumner County,47165,both
+50,36.520753,-86.038502,431 HWY 52 Bypass West,Lafayette,TN,37083,Macon County,47111,both
+51,36.343105,-86.529821,2071 Nashville Pike,Gallatin,TN,37066,Sumner County,47165,both
+52,36.4651,-86.6581,3001 Highway 31 W,White House,TN,37188,Sumner County,47165,both
+53,36.2309,-86.516,11362 Lebanon Road,Mount Juliet,TN,37122,Wilson County,47189,both
+54,36.3036,-86.6261,356 W Main St,Hendersonville,TN,37075,Sumner County,47165,both
+55,36.0811,-87.834611,40 Walton Dr,Waverly,TN,37185,Humphreys County,47085,both
+56,36.151126,-86.771156,835 4th Ave S.,Nashville,TN,37210,Davidson County,47037,both
+57,36.069495,-87.380336,205 Hwy 46,Dickson,TN,37055,Dickson County,47043,both
+58,36.3015,-88.3095,201 Tyson Ave,Paris,TN,38242,Henry County,47079,both
+59,36.1705,-85.5121,512 N Willow Ave,Cookeville,TN,38501,Putnam County,47141,both
+60,36.327009,-86.700344,320 Long Hollow Pike Suite 101,Goodlettsville,TN,37072,Davidson County,47037,both
+61,35.55761,-87.53099,556 East Main St,Hohenwald,TN,38462,Lewis County,47101,both
+62,35.241,-87.3312,225 E Gaines St,Lawrenceburg,TN,38464,Lawrence County,47099,both
+63,36.0577,-88.1154,131 Hwy 641 N,Camden,TN,38320,Benton County,47005,both
+64,36.292718,-86.701711,1601 Gallatin Pike N,Nashville,TN,37115,Davidson County,47037,both
+65,35.9476,-85.474,402 N Spring St,Sparta,TN,38583,White County,47185,both
+66,36.197573,-86.741215,2610 GALLATIN PIKE ROAD,NASHVILLE,TN,37216,Davidson County,47037,both
+67,36.005423,-88.4107,20685 E Main Street,Huntingdon,TN,38344,Carroll County,47017,both
+68,35.6495,-88.3917,6 Natchez Trace Drive,Lexington,TN,38351,Henderson County,47077,both
+69,35.22535,-88.24238,200 Wayne Road,Savannah,TN,38372,Hardin County,47071,both
+70,35.1672,-88.5884,226 East Court Ave,Selmer,TN,38375,McNairy County,47109,both
+71,35.35967,-85.39646,7393 HWY 28 South,Dunlap,TN,37327,Sequatchie County,47153,both
+72,35.1813,-86.1044,668 S College St,Winchester,TN,37398,Franklin County,47051,both
+73,35.1391,-85.3294,1211 US-127,Signal Mountain,TN,37377,Hamilton County,47065,both
+74,35.1125,-85.2937,3504 Dayton Blvd,Red Bank,TN,37415,Hamilton County,47065,both
+75,35.198755,-85.158765,8530 Hixson Pike,Hixson,TN,37343,Hamilton County,47065,both
+76,35.068921,-85.289504,1150 Hixson Pike,Chattanooga,TN,37405,Hamilton County,47065,both
+77,35.011818,-85.326525,3800 Tennessee Ave,Chattanooga,TN,37409,Hamilton County,47065,both
+78,35.111847,-85.136872,5730a Highway 58,Harrison,TN,37341,Hamilton County,47065,both
+79,35.040078,-85.685448,310 Kimball Crossing Dr.,Kimball,TN,37347,Marion County,47115,both
+80,34.9975,-85.2439,4155 Ringgold Rd,Chattanooga,TN,37412,Hamilton County,47065,both
+81,35.061182,-85.069878,9325 Apison Pike,Ooltewah,TN,37363,Hamilton County,47065,both
+82,34.999662,-85.133557,8644 E Brainerd Rd,Chattanooga,TN,37421,Hamilton County,47065,both
+83,35.178662,-84.864607,2507 Ocoee st,Cleveland,TN,37312,Bradley County,47011,both
+84,35.44936,-84.615738,1250 Decatur Pike,Athens,TN,37303,McMinn County,47107,both
+85,35.3392,-84.5205,119 Cooper St,Etowah,TN,37331,McMinn County,47107,both
+86,35.5938,-84.4675,706 S Main St,Sweetwater,TN,37874,Monroe County,47123,both
+87,35.513977,-84.361908,4510 Highway 411 # Us,Madisonville,TN,37354,Monroe County,47123,both
+88,35.732749,-84.347296,930 B Mulberry Street,Loudon,TN,37774,Loudon County,47105,both
+89,35.869,-84.5118,525 E Race Street,Kingston,TN,37763,Roane County,47145,both
+90,35.89625,-84.611528,2116 Roane St,Harriman,TN,37748,Roane County,47145,both
+91,35.81907,-84.263432,131 Kelsey Ln Suite 103,Lenoir City,TN,37772,Loudon County,47105,both
+92,35.714374,-84.018548,2636 Highway 411 S.,Maryville,TN,37801,Blount County,47009,both
+93,35.953942,-85.031538,45 Genesis Square,Crossville,TN,38555,Cumberland County,47035,both
+94,36.004105,-84.288696,1952 Oakridge Turnpike,Oak Ridge,TN,37831,Anderson County,47001,both
+95,35.76602,-83.9861,256 Hamilton Crossing Rd,Alcoa,TN,37701,Blount County,47009,both
+96,35.880232,-84.161546,11408 Kingston Pike,Knoxville,TN,37934,Knox County,47093,both
+97,35.062468,-89.990848,3000 Airways Blvd,Memphis,TN,38116,Shelby County,47157,both
+98,35.033357,-90.02502,4230 Elvis Presley Blvd #111,Memphis,TN,38116,Shelby County,47157,both
+99,35.05105,-89.814002,7464 Winchester Road,Memphis,TN,38125,Shelby County,47157,both
+100,35.105786,-89.879041,5475 Poplar Ave,Memphis,TN,38119,Shelby County,47157,both
+101,35.1168,-89.9456,550 S Highland St,Memphis,TN,38111,Shelby County,47157,both
+102,36.308338,-82.361496,745 W Walnut St,Johnson City,TN,37604,Washington County,47179,both
+103,36.3365,-82.2613,1946 W. Elk Ave,Elizabethton,TN,37643,Carter County,47019,both
+104,36.37512,-82.427567,2694 Boones Creek #7,Johnson City,TN,37615,Washington County,47179,both
+105,36.148083,-82.413578,151 SPEEDWAY BLVD,BRISTOL,TN,37620,Unicoi County,47171,both
+106,36.146095,-82.415217,202 N Main St,Erwin,TN,37650,Unicoi County,47171,both
+107,36.541459,-82.332956,1323-D Highway 394,Blountville,TN,37617,Sullivan County,47163,both
+108,36.5112,-82.5171,3077 Fort Henry Dr,Kingsport,TN,37664,Sullivan County,47163,both
+109,36.5531,-82.5718,714 W. Center St,Kingsport,TN,37660,Sullivan County,47163,both
+110,36.5951,-82.1897,920 West State Street,Bristol,TN,37620,Sullivan County,47163,both
+111,36.5288,-82.6866,720 E Main Blvd,Church Hill,TN,37642,Hawkins County,47073,both
+112,36.178628,-82.782233,2335 East Andrew Johnson Hwy,Greeneville,TN,37745,Greene County,47059,both
+113,36.4201,-82.9951,111 Justice Center Drive,Rogersville,TN,37857,Hawkins County,47073,both
+114,35.789161,-83.947103,2535 E Broadway Ave,Maryville,TN,37804,Blount County,47009,both
+115,35.8258,-84.0191,2629 Topside Rd.,Louisville,TN,37777,Blount County,47009,both
+116,35.905088,-84.020534,7527 South Northshore Dr,Knoxville,TN,37919,Knox County,47093,both
+117,35.947349,-83.979373,3613 Sutherland Ave.,Knoxville,TN,37919,Knox County,47093,both
+118,35.907157,-84.107328,9648 Kingston Pike,Knoxville,TN,37922,Knox County,47093,both
+119,35.941998,-84.040898,7419 Middlebrook Pike,Knoxville,TN,37909,Knox County,47093,both
+120,35.907902,-83.845058,7419 Chapman Hwy,Knoxville,TN,37920,Knox County,47093,both
+121,35.95057,-83.93972,2469 University Commons Way Suite 100,Knoxville,TN,37919,Knox County,47093,both
+122,36.230948,-84.159227,623 N Main,Lake City,TN,37769,Anderson County,47001,both
+123,36.099293,-84.13431,117 South Main Street,Clinton,TN,37716,Anderson County,47001,both
+124,36.067831,-83.927423,6661 Maynardville Pike,Knoxville,TN,37918,Knox County,47093,both
+125,36.252331,-83.793746,4354 Maynardville Hwy,Maynardville,TN,37807,Union County,47173,both
+126,36.0288,-84.0319,2145 Emory Road,Powell,TN,37849,Knox County,47093,both
+127,36.376955,-84.126916,409 W Central Ave,La Follette,TN,37766,Campbell County,47013,both
+128,36.007436,-83.976118,412 Merchants Dr,Knoxville,TN,37912,Knox County,47093,both
+129,36.027566,-83.874671,4943 Millertown Pike,Knoxville,TN,37917,Knox County,47093,both
+130,36.03824,-84.21977,329 Oak Ridge Turnpike,Oak Ridge,TN,37830,Anderson County,47001,both
+131,35.9796,-83.9233,900 N Broadway,Knoxville,TN,37917,Knox County,47093,both
+132,36.447828,-83.575002,1446 North Broad St,Tazewell,TN,37825,Claiborne County,47025,both
+133,36.2003,-83.3396,3332 West Andrew Johnson Hwy,Morristown,TN,37814,Hamblen County,47063,both
+134,36.2268,-83.2652,179 Millers Landing Blvd Suite A,Morristown,TN,37814,Hamblen County,47063,both
+135,36.1155,-83.4922,114 East Broadway Blvd,Jefferson City,TN,37760,Jefferson County,47089,both
+136,35.862972,-83.546425,254 Middle Creek Rd,Sevierville,TN,37862,Sevier County,47155,both
+137,36.016907,-83.820262,6402 Asheville Highway,Knoxville,TN,37924,Knox County,47093,both
+138,35.946612,-84.11345,9615 Countryside Center Lane,Knoxville,TN,37931,Knox County,47093,both
+139,35.7977,-83.5667,2888 parkway,Pigeon Forge,TN,37863,Sevier County,47155,both
+140,35.7244,-83.49339,951 East Parkway,Gatlinburg,TN,37738,Sevier County,47155,both
+141,35.8788,-83.7751,10635 Chapman Highway,Seymour,TN,37865,Sevier County,47155,both
+142,35.8343,-88.8973,3030 East End Drive,Humboldt,TN,38343,Gibson County,47053,both
+143,35.5937,-89.2668,251 W Main St,Brownsville,TN,38012,Haywood County,47075,both
+144,35.682853,-88.856469,169 Stonebrook PL,Jackson,TN,38305,Madison County,47113,both
+145,35.651352,-88.828042,941 North Parkway,Jackson,TN,38305,Madison County,47113,both
+146,35.7396,-89.5394,291a S. Washington St.,Ripley,TN,38063,Lauderdale County,47097,both
+147,36.06259,-89.395124,2500 Lake Rd. Suite 2,Dyersburg,TN,38024,Dyer County,47045,both
+148,35.9095,-88.7527,5019 Liberty Street,Milan,TN,38358,Gibson County,47053,both
+149,35.56077,-88.813487,1706 S Highland,Jackson,TN,38301,Madison County,47113,both
+150,35.544534,-89.662798,1618 Highway 51 S Unit E,Covington,TN,38019,Tipton County,47167,both
+151,35.4349,-88.6476,430 West Main Street,Henderson,TN,38340,Chester County,47023,both
+152,35.283833,-89.669956,5780 Airline Road,Arlington,TN,38002,Shelby County,47157,both
+153,35.20169,-89.731811,2821 Houston Levee Rd Suite 101,Cordova,TN,38016,Shelby County,47157,both
+154,35.204383,-89.812131,7539 U.S. 64,Memphis,TN,38133,Shelby County,47157,both
+155,35.226544,-89.848115,6490 Memphis- Arlington Rd. Suite 103,Bartlett,TN,38135,Shelby County,47157,both
+156,35.161627,-89.79609,1327 N Germantown Parkway,Cordova,TN,38108,Shelby County,47157,both
+157,35.2291,-89.5317,6304 US-64,Oakland,TN,38060,Fayette County,47047,both
+158,35.183074,-89.870488,5784 Raleigh Lagrange Rd,Memphis,TN,38134,Shelby County,47157,both
+159,35.34434,-89.907534,7979 Hwy 51 North,Millington,TN,38053,Shelby County,47157,both
+160,35.446575,-89.784985,11124 Highway 51 South,Atoka,TN,38004,Tipton County,47167,both
+161,35.091976,-89.808743,2086 S. Germantown Road,Germantown,TN,38138,Shelby County,47157,both
+162,35.148569,-89.919515,4235 Summer Ave,Memphis,TN,38122,Shelby County,47157,both
+163,35.256291,-88.992436,107 Porter Street,Bolivar,TN,38008,Hardeman County,47069,both
+164,36.414417,-89.052111,620 E Reelfoot,Union City,TN,38261,Obion County,47131,both
+165,36.342856,-88.857839,300 University Street,Martin,TN,38237,Weakley County,47183,both
+166,35.0489,-89.6866,308 New Byhalia Rd. Unit 100,Collierville,TN,38017,Shelby County,47157,both
+167,35.136504,-90.009423,1560 Union Ave,Memphis,TN,38104,Shelby County,47157,both
+168,35.139383,-90.038494,686 Union Ave,Memphis,TN,38103,Shelby County,47157,both
